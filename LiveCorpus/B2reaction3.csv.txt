@@ -1,0 +1,1484 @@
+2733	# sent = 229																
+2734	#  #																
+2734	#  #																
+2734	#  #																
+2734	#  #																
+2734	#  #																
+2734	#  #																
+2734	#  #																
+2734	#  #																
+2734	# doc = B2reaction.2.txt																
+2735	# speaker = Глеб																
+2736	# sent = 230																
+2737		Это	ЭТО	SPRO n - nom sg			   _Это_ русская деревня ,	о	т	э				SPRO	ЭТО	S n - nom sg	О
+2738		русская	РУССКИЙ	A - nom sg plen f -			  Это _русская_ деревня , сидит	я	а	к	с	с	у	A	РУССКИЙ	A - nom sg plen f -	Й
+2739		деревня	ДЕРЕВНЯ	S f inan nom sg			 Это русская _деревня_ , сидит мужик	я	н	в	е	р	е	S	ДЕРЕВНЯ	S f inan nom sg	Я
+2740		,	,	PUNCT										PUNCT			
+2741		сидит	СИДЕТЬ	V ipf praes sg indic - 3p			русская деревня , _сидит_ мужик , курит	т	и	д	и	с		V	СИДЕТЬ	V ipf praes sg indic - 3p	Ь
+2742		мужик	МУЖИК	S m anim nom sg			деревня , сидит _мужик_ , курит .	к	и	ж	у	м		S	МУЖИК	S m anim nom sg	К
+2743		,	,	PUNCT										PUNCT			
+2744		курит	КУРИТЬ	V ipf praes sg indic - 3p			сидит мужик , _курит_ .  	т	и	р	у	к		V	КУРИТЬ	V ipf praes sg indic - 3p	Ь
+2745		.	.	PUNCT										PUNCT			
+2746																	
+2747	# sent = 231																
+2748	"<distinct form="""																
+2749	<dist>	оче															
+2750	""">"																
+2751		Очень	ОЧЕНЬ	ADV -			 оче  _Очень_  странно курит	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+2752	</distinct>																
+2753		странно	СТРАННО	ADV -			" Очень  _странно_ курит , """	о	н	н	а	р	т	ADV	СТРАННО	ADV -	О
+2754		курит	КУРИТЬ	V ipf praes sg indic - 3p			"Очень  странно _курит_ , "" Беломор"	т	и	р	у	к		V	КУРИТЬ	V ipf praes sg indic - 3p	Ь
+2755		,	,	PUNCT										PUNCT			
+2756		""""	""""	PUNCT										PUNCT			
+2757		Беломор	БЕЛОМОР	S m inan acc sg			"курит , "" _Беломор_ "" . "	р	о	м	о	л	е	S	БЕЛОМОР	S m inan acc sg	Р
+2758		""""	""""	PUNCT										PUNCT			
+2759		.	.	PUNCT										PUNCT			
+2760																	
+2761	# sent = 232																
+2762		""""	""""	PUNCT										PUNCT			
+2763		Беломор	БЕЛОМОР	S m inan acc sg			"  "" _Беломор_ "" . "	р	о	м	о	л	е	S	БЕЛОМОР	S m inan acc sg	Р
+2764		""""	""""	PUNCT										PUNCT			
+2765		.	.	PUNCT										PUNCT			
+2766																	
+2767	# sent = 233																
+2768		Или	ИЛИ	CONJ			.   _Или_ ...  	и	л	и				CONJ	ИЛИ	CONJ	И
+2769		...	...	PUNCT										PUNCT			
+2770																	
+2771	# sent = 234																
+2772		Или	ИЛИ	CONJ			"...   _Или_ не "" Беломор"	и	л	и				CONJ	ИЛИ	CONJ	И
+2773		не	НЕ	PART			"  Или _не_ "" Беломор """	е	н					PART	НЕ	PART	Е
+2774		""""	""""	PUNCT										PUNCT			
+2775		Беломор	БЕЛОМОР	S m inan acc sg			"Или не "" _Беломор_ "" . "	р	о	м	о	л	е	S	БЕЛОМОР	S m inan acc sg	Р
+2776		""""	""""	PUNCT										PUNCT			
+2777		.	.	PUNCT										PUNCT			
+2778																	
+2779	# sent = 235																
+2780	# speaker = Глеб																
+2781	# sent = 236																
+2782	"<distinct form="""																
+2783	<dist>	ооо															
+2784	""">"																
+2785		О	О	INTJ			 ооо  _О_  , самогоночка	о						INTJ	О	S - - nonflex -	О
+2786	</distinct>																
+2787		,	,	PUNCT										PUNCT			
+2788		самогоночка	САМОГОНОЧКА	S f inan nom sg			О  , _самогоночка_ подъехала . 	а	к	ч	о	н	о	S	САМОГОНОЧКА	S f inan nom sg	А
+2789		подъехала	ПОДЪЕХАТЬ	V pf praet sg indic f -			 , самогоночка _подъехала_ .  	а	л	а	х	е	ъ	V	ПОДЪЕХАТЬ	V pf praet sg indic f -	Ь
+2790		.	.	PUNCT										PUNCT			
+2791																	
+2792	# sent = 237																
+2793	# speaker = Глеб																
+2794	# sent = 238																
+2795		Самогоночка	САМОГОНОЧКА	S f inan nom sg			   _Самогоночка_ какая-то  оче	а	к	ч	о	н	о	S	САМОГОНОЧКА	S f inan nom sg	А
+2796		какая-то	КАКОЙ-ТО	APRO - nom sg plen f -			  Самогоночка _какая-то_  оче 	о	т	-	я	а	к	APRO	КАКОЙ-ТО	A - nom sg plen f -	О
+2797	"<distinct form="""																
+2798	<dist>	оче															
+2799	""">"																
+2800		очень	ОЧЕНЬ	ADV -			 оче  _очень_  ... 	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+2801	</distinct>																
+2802		...	...	PUNCT										PUNCT			
+2803																	
+2804	# sent = 239																
+2805		Какая-то	КАКОЙ-ТО	APRO - nom sg plen f -			...   _Какая-то_  оче 	о	т	-	я	а	к	APRO	КАКОЙ-ТО	A - nom sg plen f -	О
+2806	"<distinct form="""																
+2807	<dist>	оче															
+2808	""">"																
+2809		очень	ОЧЕНЬ	ADV -			 оче  _очень_  ... 	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+2810	</distinct>																
+2811		...	...	PUNCT										PUNCT			
+2812																	
+2813	# sent = 240																
+2814		Крафтовая	КРАФТОВЫЙ	A - nom sg plen m -			...   _Крафтовая_ самогоночка , это	я	а	в	о	т	ф	A	КРАФТОВОЙ	A - gen sg plen m -	Й
+2815		самогоночка	САМОГОНОЧКА	S f inan nom sg			  Крафтовая _самогоночка_ , это хорошо	а	к	ч	о	н	о	S	САМОГОНОЧКА	S f anim nom sg	А
+2816		,	,	PUNCT										PUNCT			
+2817		это	ЭТО	SPRO n - nom sg			Крафтовая самогоночка , _это_ хорошо . 	о	т	э				SPRO	ЭТО	S n - nom sg	О
+2818		хорошо	ХОРОШО	ADV -			самогоночка , это _хорошо_ .  	о	ш	о	р	о	х	ADV	ХОРОШО	ADV -	О
+2819		.	.	PUNCT										PUNCT			
+2820																	
+2821	# sent = 241																
+2822	# speaker = Глеб																
+2823	# sent = 242																
+2824		Тут	ТУТ	ADV -			   _Тут_ где-то должен ,	т	у	т				ADV	ТУТ	ADV -	Т
+2825		где-то	ГДЕ-ТО	ADV -			  Тут _где-то_ должен , наверное	о	т	-	е	д	г	ADV	ГДЕ-ТО	ADV -	О
+2826		должен	ДОЛЖНЫЙ	A - - sg brev m -			 Тут где-то _должен_ , наверное ,	н	е	ж	л	о	д	A	ДОЛЖНЫЙ	A - - sg brev m -	Й
+2827		,	,	PUNCT										PUNCT			
+2828		наверное	НАВЕРНОЕ	ADV -			где-то должен , _наверное_ , хоррор начаться	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+2829		,	,	PUNCT										PUNCT			
+2830		хоррор	ХОРРОР	S m inan nom sg			, наверное , _хоррор_ начаться . 	р	о	р	р	о	х	S	ХОРРОР	S m inan acc sg	Р
+2831		начаться	НАЧАТЬСЯ	V pf - - inf - -			наверное , хоррор _начаться_ .  	я	с	ь	т	а	ч	V	НАЧАТЬСЯ	V pf - - inf - -	Я
+2832		.	.	PUNCT										PUNCT			
+2833																	
+2834	# sent = 243																
+2835		""""	""""	PUNCT										PUNCT			
+2836		Горизонт	ГОРИЗОНТ	S m inan nom sg			"  "" _Горизонт_ событий "" ,"	т	н	о	з	и	р	S	ГОРИЗОНТ	S m inan nom sg	Т
+2837		событий	СОБЫТИЕ	S n inan gen pl			" "" Горизонт _событий_ "" , "	й	и	т	ы	б	о	S	СОБЫТИЕ	S n inan gen pl	Е
+2838		""""	""""	PUNCT										PUNCT			
+2839		,	,	PUNCT										PUNCT			
+2840	<noindex>[нрзб]</noindex>																
+2841		альбом	АЛЬБОМ	S m inan nom sg			""" ,  _альбом_ .  "	м	о	б	ь	л	а	S	АЛЬБОМ	S m inan acc sg	М
+2842		.	.	PUNCT										PUNCT			
+2843																	
+2844	# sent = 244																
+2845	# speaker = Глеб																
+2846	# sent = 245																
+2847		Сколько	СКОЛЬКО	ADV -			   _Сколько_ же , господи	о	к	ь	л	о	к	ADV	СКОЛЬКО	ADV -	О
+2848		же	ЖЕ	PART			  Сколько _же_ , господи ,	е	ж					PART	ЖЕ	PART	Е
+2849		,	,	PUNCT										PUNCT			
+2850		господи	ГОСПОДИ	INTJ			Сколько же , _господи_ ,  скоко	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+2851		,	,	PUNCT										PUNCT			
+2852	"<distinct form="""																
+2853	<dist>	скоко															
+2854	""">"																
+2855		сколько	СКОЛЬКО	ADV -			 скоко  _сколько_  здесь самогона	о	к	ь	л	о	к	ADV	СКОЛЬКО	ADV -	О
+2856	</distinct>																
+2857		здесь	ЗДЕСЬ	ADV -			 сколько  _здесь_ самогона . 	ь	с	е	д	з		ADV	ЗДЕСЬ	ADV -	Ь
+2858		самогона	САМОГОН	S m inan gen sg			сколько  здесь _самогона_ .  	а	н	о	г	о	м	S	САМОГОН	S m inan gen sg	Н
+2859		.	.	PUNCT										PUNCT			
+2860																	
+2861	# sent = 246																
+2862		Это	ЭТО	SPRO n - nom sg			.   _Это_ , наверное ,	о	т	э				SPRO	ЭТО	S n - nom sg	О
+2863		,	,	PUNCT										PUNCT			
+2864		наверное	НАВЕРНОЕ	ADV -			 Это , _наверное_ , мой рай	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+2865		,	,	PUNCT										PUNCT			
+2866		мой	МОЙ	APRO - nom sg plen m -			, наверное , _мой_ рай . 	й	о	м				APRO	МОЙ	A - nom sg plen m -	Й
+2867		рай	РАЙ	S m inan nom sg			наверное , мой _рай_ .  	й	а	р				S	РАЙ	S m inan nom sg	Й
+2868		.	.	PUNCT										PUNCT			
+2869																	
+2870	# sent = 247																
+2871	# speaker = Глеб																
+2872	# sent = 248																
+2873	"<distinct form="""																
+2874	<dist>	денюшки															
+2875	""">"																
+2876		Денежки	ДЕНЕЖКА	S - inan nom pl			 денюшки  _Денежки_  , а	и	к	ж	е	н	е	S	ДЕНЕЖКИ	S - inan acc pl	А
+2877	</distinct>																
+2878		,	,	PUNCT										PUNCT			
+2879		а	А	INTJ			Денежки  , _а_ , это не	а						CONJ	А	CONJ	А
+2880		,	,	PUNCT										PUNCT			
+2881		это	ЭТО	SPRO n - nom sg			, а , _это_ не  денюшки	о	т	э				SPRO	ЭТО	S n - nom sg	О
+2882		не	НЕ	PART			а , это _не_  денюшки 	е	н					PART	НЕ	PART	Е
+2883	"<distinct form="""																
+2884	<dist>	денюшки															
+2885	""">"																
+2886		денежки	ДЕНЕЖКИ	S - inan nom pl			 денюшки  _денежки_  , это	и	к	ж	е	н	е	S	ДЕНЕЖКИ	S - inan nom pl	И
+2887	</distinct>																
+2888		,	,	PUNCT										PUNCT			
+2889		это	ЭТО	SPRO n - nom sg			денежки  , _это_ этикетки . 	о	т	э				SPRO	ЭТО	S n - nom sg	О
+2890		этикетки	ЭТИКЕТКА	S f inan nom pl			 , это _этикетки_ .  	и	к	т	е	к	и	S	ЭТИКЕТКА	S f inan nom pl	А
+2891		.	.	PUNCT										PUNCT			
+2892																	
+2893	# sent = 249																
+2894	# speaker = Глеб																
+2895	# sent = 250																
+2896		Господи	ГОСПОДИ	INTJ			   _Господи_ , этот свист	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+2897		,	,	PUNCT										PUNCT			
+2898		этот	ЭТОТ	APRO - nom sg plen m -			 Господи , _этот_ свист меня уже	т	о	т	э			APRO	ЭТОТ	A - nom sg plen m -	Т
+2899		свист	СВИСТ	S m inan nom sg			Господи , этот _свист_ меня уже напрягает	т	с	и	в	с		S	СВИСТ	S m inan nom sg	Т
+2900		меня	Я	SPRO sg 1p - acc			, этот свист _меня_ уже напрягает .	я	н	е	м			SPRO	Я	SPRO sg 1p - acc	Я
+2901		уже	УЖЕ	ADV -			этот свист меня _уже_ напрягает . 	е	ж	у				ADV	УЖЕ	ADV -	Е
+2902		напрягает	НАПРЯГАТЬ	V ipf praes sg indic - 3p			свист меня уже _напрягает_ .  	т	е	а	г	я	р	V	НАПРЯГАТЬ	V ipf praes sg indic - 3p	Ь
+2903		.	.	PUNCT										PUNCT			
+2904																	
+2905	# sent = 251																
+2906		Тут	ТУТ	ADV -			.   _Тут_ , блин ,	т	у	т				ADV	ТУТ	ADV -	Т
+2907		,	,	PUNCT										PUNCT			
+2908		блин	БЛИН	INTJ			 Тут , _блин_ , аппарат красивый	н	и	л	б			S	БЛИН	S m inan nom sg	Н
+2909		,	,	PUNCT										PUNCT			
+2910		аппарат	АППАРАТ	S m inan nom sg			, блин , _аппарат_ красивый , хотя	т	а	р	а	п	п	S	АППАРАТ	S m inan nom sg	Т
+2911		красивый	КРАСИВЫЙ	A - nom sg plen m -			блин , аппарат _красивый_ , хотя нет	й	ы	в	и	с	а	A	КРАСИВЫЙ	A - nom sg plen m -	Й
+2912		,	,	PUNCT										PUNCT			
+2913		хотя	ХОТЯ	CONJ			аппарат красивый , _хотя_ нет . 	я	т	о	х			CONJ	ХОТЯ	CONJ	Я
+2914		нет	НЕТ	PART			красивый , хотя _нет_ .  	т	е	н				PART	НЕТ	PART	Т
+2915		.	.	PUNCT										PUNCT			
+2916																	
+2917	# sent = 252																
+2918		Дымок	ДЫМОК	S m inan acc sg			.   _Дымок_ , дымок ,	к	о	м	ы	д		S	ДЫМОК	S m inan acc sg	К
+2919		,	,	PUNCT										PUNCT			
+2920		дымок	ДЫМОК	S m inan nom sg			 Дымок , _дымок_ , тиха украинской	к	о	м	ы	д		S	ДЫМОК	S m inan nom sg	К
+2921		,	,	PUNCT										PUNCT			
+2922		тиха	ТИХИЙ	A - - sg brev f -			, дымок , _тиха_ украинской . 	а	х	и	т			A	ТИХИЙ	A - - sg brev f -	Й
+2923		украинской	УКРАИНСКИЙ	A - loc sg plen f -			дымок , тиха _украинской_ .  	й	о	к	с	н	и	A	УКРАИНСКИЙ	A - loc sg plen f -	Й
+2924		.	.	PUNCT										PUNCT			
+2925																	
+2926	# sent = 253																
+2927	# speaker = Глеб																
+2928	# sent = 254																
+2929		Блин	БЛИН	INTJ			   _Блин_ , там петля	н	и	л	б			S	БЛИН	S m inan acc sg	Н
+2930		,	,	PUNCT										PUNCT			
+2931		там	ТАМ	ADV -			 Блин , _там_ петля , на	м	а	т				ADV	ТАМ	ADV -	М
+2932		петля	ПЕТЛЯ	S f inan nom sg			Блин , там _петля_ , на которой	я	л	т	е	п		S	ПЕТЛЯ	S f inan nom sg	Я
+2933		,	,	PUNCT										PUNCT			
+2934		на	НА	PR			там петля , _на_ которой ... 	а	н					PR	НА	PR	А
+2935		которой	КОТОРЫЙ	APRO - loc sg plen f -			петля , на _которой_ ...  	й	о	р	о	т	о	APRO	КОТОРЫЙ	A - loc sg plen f -	Й
+2936		...	...	PUNCT										PUNCT			
+2937																	
+2938	# sent = 255																
+2939		Там	ТАМ	ADV -			...   _Там_ , там петля	м	а	т				ADV	ТАМ	ADV -	М
+2940		,	,	PUNCT										PUNCT			
+2941		там	ТАМ	ADV -			 Там , _там_ петля , на	м	а	т				ADV	ТАМ	ADV -	М
+2942		петля	ПЕТЛЯ	S f inan nom sg			Там , там _петля_ , на которой	я	л	т	е	п		S	ПЕТЛЯ	S f inan nom sg	Я
+2943		,	,	PUNCT										PUNCT			
+2944		на	НА	PR			там петля , _на_ которой можно повеситься	а	н					PR	НА	PR	А
+2945		которой	КОТОРЫЙ	APRO - loc sg plen f -			петля , на _которой_ можно повеситься .	й	о	р	о	т	о	APRO	КОТОРЫЙ	A - loc sg plen f -	Й
+2946		можно	МОЖНО	PRAEDIC			, на которой _можно_ повеситься . 	о	н	ж	о	м		PRAEDIC	МОЖНО	PRAEDIC	О
+2947		повеситься	ПОВЕСИТЬСЯ	V pf - - inf - -			на которой можно _повеситься_ .  	я	с	ь	т	и	с	V	ПОВЕСИТЬСЯ	V pf - - inf - -	Я
+2948		.	.	PUNCT										PUNCT			
+2949																	
+2950	# sent = 256																
+2951		Стас	СТАС	S m anim nom sg persn			.   _Стас_ Дужников . 	с	а	т	с			S	СТАС	S m anim nom sg	С
+2952		Дужников	ДУЖНИКОВ	S m anim nom sg famn			  Стас _Дужников_ .  	в	о	к	и	н	ж	S	ДУЖНИКОВ	S m anim nom sg	В
+2953		.	.	PUNCT										PUNCT			
+2954																	
+2955	# sent = 257																
+2956		Я	Я	SPRO sg 1p - nom			.   _Я_ не знаю ,	я						SPRO	Я	SPRO sg 1p - nom	Я
+2957		не	НЕ	PART			  Я _не_ знаю , кто	е	н					PART	НЕ	PART	Е
+2958		знаю	ЗНАТЬ	V ipf praes sg indic - 1p			 Я не _знаю_ , кто такой	ю	а	н	з			V	ЗНАТЬ	V ipf praes sg indic - 1p	Ь
+2959		,	,	PUNCT										PUNCT			
+2960		кто	КТО	SPRO m - nom sg			не знаю , _кто_ такой Стас Дужников	о	т	к				S	КТО	S m - nom sg	О
+2961		такой	ТАКОЙ	APRO - nom sg plen m -			знаю , кто _такой_ Стас Дужников .	й	о	к	а	т		APRO	ТАКОЙ	A - nom sg plen m -	Й
+2962		Стас	СТАС	S m anim nom sg persn			, кто такой _Стас_ Дужников . 	с	а	т	с			S	СТАС	S m anim nom sg	С
+2963		Дужников	ДУЖНИКОВ	S m anim nom sg famn			кто такой Стас _Дужников_ .  	в	о	к	и	н	ж	S	ДУЖНИКОВ	S m anim nom sg	В
+2964		.	.	PUNCT										PUNCT			
+2965																	
+2966	# sent = 258																
+2967	# speaker = Глеб																
+2968	# sent = 259																
+2969		Господи	ГОСПОДИ	INTJ			   _Господи_ .  	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+2970		.	.	PUNCT										PUNCT			
+2971																	
+2972	# sent = 260																
+2973		Ефря	ЕФРЯ	S m anim nom sg persn	new		.   _Ефря_ с бородой ,	я	р	ф	е			S	ЕФРЯ	S m anim nonflex -	Я
+2974		с	С	PR			  Ефря _с_ бородой , господи	с						PR	С	PR	С
+2975		бородой	БОРОДА	S f inan ins sg			 Ефря с _бородой_ , господи .	й	о	д	о	р	о	S	БОРОДА	S f inan ins sg	А
+2976		,	,	PUNCT										PUNCT			
+2977		господи	ГОСПОДИ	INTJ			с бородой , _господи_ .  	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+2978		.	.	PUNCT										PUNCT			
+2979																	
+2980	# sent = 261																
+2981		И	И	CONJ			.   _И_ какой-то Джон Грант	и						CONJ	И	CONJ	И
+2982		какой-то	КАКОЙ-ТО	APRO - nom sg plen m -			  И _какой-то_ Джон Грант ,	о	т	-	й	о	к	APRO	КАКОЙ-ТО	A - nom sg plen m -	О
+2983		Джон	ДЖОН	S m anim nom sg persn			 И какой-то _Джон_ Грант , господи	н	о	ж	д			S	ДЖОН	S m anim nom sg	Н
+2984		Грант	ГРАНТ	S m anim nom sg famn			И какой-то Джон _Грант_ , господи .	т	н	а	р	г		S	ГРАНТ	S m anim nom sg	Т
+2985		,	,	PUNCT										PUNCT			
+2986		господи	ГОСПОДИ	INTJ			Джон Грант , _господи_ .  	и	д	о	п	с	о	INTJ	ГОСПОДИ	S m anim voc sg	И
+2987		.	.	PUNCT										PUNCT			
+2988																	
+2989	# sent = 262																
+2990	# speaker = Глеб																
+2991	# sent = 263																
+2992		Что	ЧТО	SPRO n inan nom sg			   _Что_ это ? 	о	т	ч				SPRO	ЧТО	S n - nom sg	О
+2993		это	ЭТО	SPRO n - nom sg			  Что _это_ ?  	о	т	э				SPRO	ЭТО	S n - nom sg	О
+2994		?	?	PUNCT										PUNCT			
+2995																	
+2996	# sent = 264																
+2997		Это	ЭТО	SPRO n - nom sg			?   _Это_ карета ? 	о	т	э				SPRO	ЭТО	S n - nom sg	О
+2998		карета	КАРЕТА	S f inan nom sg			  Это _карета_ ?  	а	т	е	р	а	к	S	КАРЕТА	S f inan nom sg	А
+2999		?	?	PUNCT										PUNCT			
+3000																	
+3001	# sent = 265																
+3002		Господи	ГОСПОДИ	INTJ			?   _Господи_ , хата взорвалась	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3003		,	,	PUNCT										PUNCT			
+3004		хата	ХАТА	S f inan nom sg			 Господи , _хата_ взорвалась . 	а	т	а	х			S	ХАТА	S f inan nom sg	А
+3005		взорвалась	ВЗОРВАТЬСЯ	V pf praet sg indic f -			Господи , хата _взорвалась_ .  	ь	с	а	л	а	в	V	ВЗОРВАТЬСЯ	V pf praet sg indic f -	Я
+3006		.	.	PUNCT										PUNCT			
+3007																	
+3008	# sent = 266																
+3009		Типа	ТИПА	PART			.   _Типа_ это и есть	а	п	и	т			PART	ТИПА	PART	А
+3010		это	ЭТО	SPRO n - nom sg			  Типа _это_ и есть хоррор	о	т	э				SPRO	ЭТО	S n - nom sg	О
+3011		и	И	CONJ			 Типа это _и_ есть хоррор ,	и						CONJ	И	CONJ	И
+3012		есть	БЫТЬ	V ipf praes sg indic - 3p			Типа это и _есть_ хоррор , да	ь	т	с	е			V	БЫТЬ	V ipf praes sg indic - 3p	Ь
+3013		хоррор	ХОРРОР	S m inan nom sg			это и есть _хоррор_ , да ?	р	о	р	р	о	х	S	ХОРРОР	S m inan acc sg	Р
+3014		,	,	PUNCT										PUNCT			
+3015		да	ДА	PART			есть хоррор , _да_ ?  	а	д					PART	ДА	PART	А
+3016		?	?	PUNCT										PUNCT			
+3017																	
+3018	# sent = 267																
+3019		Он	ОН	SPRO sg 3p m nom			?   _Он_ спрятался , спрятался	н	о					SPRO	ОН	SPRO sg 3p m nom	Н
+3020		спрятался	СПРЯТАТЬСЯ	V pf praet sg indic m -			  Он _спрятался_ , спрятался в	я	с	л	а	т	я	V	СПРЯТАТЬСЯ	V pf praet sg indic m -	Я
+3021		,	,	PUNCT										PUNCT			
+3022		спрятался	СПРЯТАТЬСЯ	V pf praet sg indic m -			Он спрятался , _спрятался_ в этом катафалке	я	с	л	а	т	я	V	СПРЯТАТЬСЯ	V pf praet sg indic m -	Я
+3023		в	В	PR			спрятался , спрятался _в_ этом катафалке .	в						PR	В	PR	В
+3024		этом	ЭТОТ	APRO - loc sg plen m -			, спрятался в _этом_ катафалке . 	м	о	т	э			APRO	ЭТОТ	A - loc sg plen m -	Т
+3025		катафалке	КАТАФАЛК	S m inan loc sg			спрятался в этом _катафалке_ .  	е	к	л	а	ф	а	S	КАТАФАЛК	S m inan loc sg	К
+3026		.	.	PUNCT										PUNCT			
+3027																	
+3028	# sent = 268																
+3029	# speaker = Глеб																
+3030	# sent = 269																
+3031		О	О	INTJ			   _О_ , о '	о						INTJ	О	INTJ	О
+3032		,	,	PUNCT										PUNCT			
+3033		о	О	ADV	слитно		 О , _о_ ' кей ,	о						PR	О	PR	О
+3034		'	'	PUNCT										PUNCT			
+3035		кей	КЕЙ	ADV	слитно		, о ' _кей_ ,  полевы	й	е	к				S	КЕЙ	S m anim nom sg	Й
+3036		,	,	PUNCT										PUNCT			
+3037	"<distinct form="""																
+3038	<dist>	полевы															
+3039	""">"																
+3040		полевые	ПОЛЕВОЙ	A - nom pl plen -			 полевы  _полевые_  ... 	е	ы	в	е	л	о	A	ПОЛЕВОЙ	A - acc pl plen - inan	Й
+3041	</distinct>																
+3042		...	...	PUNCT										PUNCT			
+3043																	
+3044	# sent = 270																
+3045		Господи	ГОСПОДИ	INTJ			...   _Господи_ , в борщевом	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3046		,	,	PUNCT										PUNCT			
+3047		в	В	PR			 Господи , _в_ борщевом хорроре ,	в						PR	В	PR	В
+3048		борщевом	БОРЩЕВОЙ	A m loc sg plen -			Господи , в _борщевом_ хорроре , ой-ой-ой	м	о	в	е	щ	р	S	БОРЩЕВ	S m inan ins sg	Й
+3049		хорроре	ХОРРОР	S m inan loc sg			, в борщевом _хорроре_ , ой-ой-ой .	е	р	о	р	р	о	S	ХОРРОР	S m inan loc sg	Р
+3050		,	,	PUNCT										PUNCT			
+3051		ой-ой-ой	ОЙ-ОЙ-ОЙ	INTJ			борщевом хорроре , _ой-ой-ой_ .  	й	о	-	й	о	-	INTJ	ОЙ-ОЙ-ОЙ	INTJ	Й
+3052		.	.	PUNCT										PUNCT			
+3053																	
+3054	# sent = 271																
+3055		Виски	ВИСКИ	S m/n inan nom pl 0			.   _Виски_ .  	и	к	с	и	в		S	ВИСОК	S m inan nom pl	И
+3056		.	.	PUNCT										PUNCT			
+3057																	
+3058	# sent = 272																
+3059		А	А	INTJ			.   _А_ , так это	а						CONJ	А	CONJ	А
+3060		,	,	PUNCT										PUNCT			
+3061		так	ТАК	ADV -			 А , _так_ это был не	к	а	т				ADV	ТАК	ADV -	К
+3062		это	ЭТО	SPRO n - nom sg			А , так _это_ был не самогон	о	т	э				SPRO	ЭТО	S n inan acc sg	О
+3063		был	БЫТЬ	V ipf praet sg indic m -			, так это _был_ не самогон ,	л	ы	б				V	БЫТЬ	V ipf praet sg indic m -	Ь
+3064		не	НЕ	PART			так это был _не_ самогон , это	е	н					PART	НЕ	PART	Е
+3065		самогон	САМОГОН	S m inan nom sg			это был не _самогон_ , это был	н	о	г	о	м	а	S	САМОГОН	S m inan nom sg	Н
+3066		,	,	PUNCT										PUNCT			
+3067		это	ЭТО	SPRO n - nom sg			не самогон , _это_ был виски .	о	т	э				SPRO	ЭТО	S n - nom sg	О
+3068		был	БЫТЬ	V ipf praet sg indic m -			самогон , это _был_ виски . 	л	ы	б				V	БЫТЬ	V ipf praet sg indic m -	Ь
+3069		виски	ВИСКИ	S m/n inan acc sg 0			, это был _виски_ .  	и	к	с	и	в		S	ВИСОК	S m inan acc pl	И
+3070		.	.	PUNCT										PUNCT			
+3071																	
+3072	# sent = 273																
+3073		Русский	РУССКИЙ	A - nom sg plen m -			.   _Русский_ деревенский виски .	й	и	к	с	с	у	A	РУССКИЙ	A - nom sg plen m -	Й
+3074		деревенский	ДЕРЕВЕНСКИЙ	A - nom sg plen m -			  Русский _деревенский_ виски . 	й	и	к	с	н	е	A	ДЕРЕВЕНСКИЙ	A - nom sg plen m -	Й
+3075		виски	ВИСКИ	S m/n inan nom sg 0			 Русский деревенский _виски_ .  	и	к	с	и	в		S	ВИСОК	S m inan nom pl	И
+3076		.	.	PUNCT										PUNCT			
+3077																	
+3078	# sent = 274																
+3079	# speaker = Глеб																
+3080	# sent = 275																
+3081		Чувак	ЧУВАК	S m anim nom sg			   _Чувак_ , похожий на	к	а	в	у	ч		S	ЧУВАК	S m anim nom sg	К
+3082		,	,	PUNCT										PUNCT			
+3083		похожий	ПОХОЖИЙ	A - nom sg plen m -			 Чувак , _похожий_ на Лепса ,	й	и	ж	о	х	о	A	ПОХОЖИЙ	A - nom sg plen m -	Й
+3084		на	НА	PR			Чувак , похожий _на_ Лепса , едет	а	н					PR	НА	PR	А
+3085		Лепса	ЛЕПС	S m anim acc sg famn			, похожий на _Лепса_ , едет в	а	с	п	е	л		S	ЛЕПС	S m anim acc sg	С
+3086		,	,	PUNCT										PUNCT			
+3087		едет	ЕХАТЬ	V ipf praes sg indic - 3p			на Лепса , _едет_ в одном катафалке	т	е	д	е			V	ЕХАТЬ	V ipf praes sg indic - 3p	Ь
+3088		в	В	PR			Лепса , едет _в_ одном катафалке ,	в						PR	В	PR	В
+3089		одном	ОДИН	ANUM - loc sg plen m -			, едет в _одном_ катафалке , ну	м	о	н	д	о		ANUM	ОДИН	A - loc sg plen m -	Н
+3090		катафалке	КАТАФАЛК	S m inan loc sg			едет в одном _катафалке_ , ну ,	е	к	л	а	ф	а	S	КАТАФАЛК	S m inan loc sg	К
+3091		,	,	PUNCT										PUNCT			
+3092		ну	НУ	PART			одном катафалке , _ну_ , траурном .	у	н					PART	НУ	PART	У
+3093		,	,	PUNCT										PUNCT			
+3094		траурном	ТРАУРНЫЙ	A - loc sg plen m -			, ну , _траурном_ .  	м	о	н	р	у	а	A	ТРАУРНЫЙ	A - loc sg plen n -	Й
+3095		.	.	PUNCT										PUNCT			
+3096																	
+3097	# sent = 276																
+3098		А	А	CONJ			.   _А_ , это виски	а						CONJ	А	CONJ	А
+3099		,	,	PUNCT										PUNCT			
+3100		это	ЭТО	SPRO n - acc sg			 А , _это_ виски . 	о	т	э				SPRO	ЭТО	S n - acc sg	О
+3101		виски	ВИСКИ	S m/n inan acc sg 0			А , это _виски_ .  	и	к	с	и	в		S	ВИСОК	S m inan acc pl	И
+3102		.	.	PUNCT										PUNCT			
+3103																	
+3104	# sent = 277																
+3105		Борщи	БОРЩ	S m inan nom pl			.   _Борщи_ .  	и	щ	р	о	б		S	БОРЩ	S m anim nom sg	Щ
+3106		.	.	PUNCT										PUNCT			
+3107																	
+3108	# sent = 278																
+3109		Борщи	БОРЩ	S m inan nom pl			.   _Борщи_ .  	и	щ	р	о	б		S	БОРЩ	S m anim nom sg	Щ
+3110		.	.	PUNCT										PUNCT			
+3111																	
+3112	# sent = 279																
+3113		Борщи	БОРЩ	S m inan nom pl			.   _Борщи_ ?  	и	щ	р	о	б		S	БОРЩ	S m inan nom sg	Щ
+3114		?	?	PUNCT										PUNCT			
+3115																	
+3116	# sent = 280																
+3117	# speaker = Глеб																
+3118	# sent = 281																
+3119		Клип	КЛИП	S m inan nom sg			   _Клип_ основан на реальных	п	и	л	к			S	КЛИП	S m anim nom sg	П
+3120		основан	ОСНОВАТЬ	PARTCP pf praet - sg brev m pass -			  Клип _основан_ на реальных ...	н	а	в	о	н	с	PARTCP	ОСНОВАТЬ	PARTCP pf praet - sg brev m pass -	Ь
+3121		на	НА	PR			 Клип основан _на_ реальных ... 	а	н					PR	НА	PR	А
+3122		реальных	РЕАЛЬНЫЙ	A - loc pl plen - -			Клип основан на _реальных_ ...  	х	ы	н	ь	л	а	A	РЕАЛЬНЫЙ	A - gen pl plen - -	Й
+3123		...	...	PUNCT										PUNCT			
+3124																	
+3125	# sent = 282																
+3126	"<distinct form="""																
+3127	<dist>	чо															
+3128	""">"																
+3129		Что	ЧТО	ADV -			 чо  _Что_  ? 	о	т	ч				ADV	ЧТО	ADV -	О
+3130	</distinct>																
+3131		?	?	PUNCT										PUNCT			
+3132																	
+3133	# sent = 283																
+3134		На	НА	PR			?   _На_ реальных свёклах ?	а	н					PR	НА	PR	А
+3135		реальных	РЕАЛЬНЫЙ	A - loc pl plen - -			  На _реальных_ свёклах ? 	х	ы	н	ь	л	а	A	РЕАЛЬНЫЙ	A - loc pl plen - -	Й
+3136		свёклах	СВЕКЛА	S f inan loc pl			 На реальных _свёклах_ ?  	х	а	л	к	ё	в	S	СВЕКЛА	S f inan loc pl	А
+3137		?	?	PUNCT										PUNCT			
+3138																	
+3139	# sent = 284																
+3140		Как	КАК	ADV -			?   _Как_ , как люди	к	а	к				ADV	КАК	ADV -	К
+3141		,	,	PUNCT										PUNCT			
+3142		как	КАК	ADV -			 Как , _как_ люди это придумали	к	а	к				CONJ	КАК	CONJ	К
+3143		люди	ЧЕЛОВЕК	S m anim nom pl			Как , как _люди_ это придумали ?	и	д	ю	л			S	ЧЕЛОВЕК	S m anim nom pl	К
+3144		это	ЭТО	SPRO n - nom sg			, как люди _это_ придумали ? 	о	т	э				SPRO	ЭТО	S n - nom sg	О
+3145		придумали	ПРИДУМАТЬ	V pf praet pl indic - -			как люди это _придумали_ ?  	и	л	а	м	у	д	V	ПРИДУМАТЬ	V pf praet pl indic - -	Ь
+3146		?	?	PUNCT										PUNCT			
+3147																	
+3148	# sent = 285																
+3149	# speaker = Глеб																
+3150	# sent = 286																
+3151		Дождь	ДОЖДЬ	S m inan nom sg			   _Дождь_ идет . 	ь	д	ж	о	д		S	ДОЖДЬ	S m inan nom sg	Ь
+3152		идет	ИДТИ	V ipf praes sg indic - 3p			  Дождь _идет_ .  	т	е	д	и			V	ИДТИ	V ipf praes sg indic - 3p	И
+3153		.	.	PUNCT										PUNCT			
+3154																	
+3155	# sent = 287																
+3156		Из	ИЗ	PR			.   _Из_ уважения к борщу	з	и					PR	ИЗ	PR	З
+3157		уважения	УВАЖЕНИЕ	S n inan gen sg			  Из _уважения_ к борщу все	я	и	н	е	ж	а	S	УВАЖЕНИЕ	S n inan gen sg	Е
+3158		к	К	PR			 Из уважения _к_ борщу все 	к						PR	К	PR	К
+3159		борщу	БОРЩ	S m inan dat sg			Из уважения к _борщу_ все  ингре	у	щ	р	о	б		S	БОРЩ	S m inan dat sg	Щ
+3160		все	ВСЕ	PART			уважения к борщу _все_  ингре 	е	с	в				PART	ВСЕ	PART	Е
+3161	"<distinct form="""																
+3162	<dist>	ингре															
+3163	""">"																
+3164		ингредиенты	ИНГРЕДИЕНТ	S m inan nom pl			 ингре  _ингредиенты_  ... 	ы	т	н	е	и	д	S	ИНГРЕДИЕНТ	S m inan acc pl	Т
+3165	</distinct>																
+3166		...	...	PUNCT										PUNCT			
+3167																	
+3168	# sent = 288																
+3169		Ой-ой-ой	ОЙ-ОЙ-ОЙ	INTJ			...   _Ой-ой-ой_ .  	й	о	-	й	о	-	INTJ	ОЙ-ОЙ-ОЙ	INTJ	Й
+3170		.	.	PUNCT										PUNCT			
+3171																	
+3172	# sent = 289																
+3173		Фильм	ФИЛЬМ	S m inan nom sg			.   _Фильм_ by Тигр Шмелёв	м	ь	л	и	ф		S	ФИЛЬМ	S m inan nom sg	М
+3174		by	BY	NONLEX			  Фильм _by_ Тигр Шмелёв .	y	b					NONLEX	BY	NONLEX	Y
+3175		Тигр	ТИГР	S m anim nom sg persn			 Фильм by _Тигр_ Шмелёв . 	р	г	и	т			S	ТИГР	S m anim nom sg	Р
+3176		Шмелёв	ШМЕЛЕВ	S m anim nom sg famn			Фильм by Тигр _Шмелёв_ .  	в	ё	л	е	м	ш	S	ШМЕЛЕВ	S m anim nom sg	В
+3177		.	.	PUNCT										PUNCT			
+3178																	
+3179	# sent = 290																
+3180		Блин	БЛИН	INTJ			.   _Блин_ , пафоса ,	н	и	л	б			S	БЛИН	S m inan acc sg	Н
+3181		,	,	PUNCT										PUNCT			
+3182		пафоса	ПАФОС	S m inan gen sg			 Блин , _пафоса_ , я не	а	с	о	ф	а	п	S	ПАФОС	S m inan gen sg	С
+3183		,	,	PUNCT										PUNCT			
+3184		я	Я	SPRO sg 1p - nom			, пафоса , _я_ не знаю ,	я						SPRO	Я	SPRO sg 1p - nom	Я
+3185		не	НЕ	PART			пафоса , я _не_ знаю , больше	е	н					PART	НЕ	PART	Е
+3186		знаю	ЗНАТЬ	V ipf praes sg indic - 1p			, я не _знаю_ , больше ,	ю	а	н	з			V	ЗНАТЬ	V ipf praes sg indic - 1p	Ь
+3187		,	,	PUNCT										PUNCT			
+3188		больше	МНОГО	ADV comp			не знаю , _больше_ , чем в	е	ш	ь	л	о	б	ADV	МНОГО	ADV comp	О
+3189		,	,	PUNCT										PUNCT			
+3190		чем	ЧЕМ	CONJ			", больше , _чем_ в фильме """	м	е	ч				CONJ	ЧЕМ	CONJ	М
+3191		в	В	PR			"больше , чем _в_ фильме "" Защитники"	в						PR	В	PR	В
+3192		фильме	ФИЛЬМ	S m inan loc sg			", чем в _фильме_ "" Защитники """	е	м	ь	л	и	ф	S	ФИЛЬМ	S m inan loc sg	М
+3193		""""	""""	PUNCT										PUNCT			
+3194		Защитники	ЗАЩИТНИК	S m anim nom pl			"в фильме "" _Защитники_ "" . "	и	к	и	н	т	и	S	ЗАЩИТНИК	S m anim nom pl	К
+3195		""""	""""	PUNCT										PUNCT			
+3196		.	.	PUNCT										PUNCT			
+3197																	
+3198	# sent = 291																
+3199	# speaker = Глеб																
+3200	# sent = 292																
+3201		Это	ЭТО	SPRO n - nom sg			   _Это_  чо 	о	т	э				SPRO	ЭТО	S n - nom sg	О
+3202	"<distinct form="""																
+3203	<dist>	чо															
+3204	""">"																
+3205		что	ЧТО	CONJ			 чо  _что_  , чувак	о	т	ч				CONJ	ЧТО	CONJ	О
+3206	</distinct>																
+3207		,	,	PUNCT										PUNCT			
+3208		чувак	ЧУВАК	S m anim nom sg			"что  , _чувак_ из "" Ворониных"	к	а	в	у	ч		S	ЧУВАК	S m anim nom sg	К
+3209		из	ИЗ	PR			" , чувак _из_ "" Ворониных """	з	и					PR	ИЗ	PR	З
+3210		""""	""""	PUNCT										PUNCT			
+3211		Ворониных	ВОРОНИН	S - anim gen pl famn			"чувак из "" _Ворониных_ "" ? "	х	ы	н	и	н	о	S	ВОРОНИН	S - anim gen pl	Н
+3212		""""	""""	PUNCT										PUNCT			
+3213		?	?	PUNCT										PUNCT			
+3214																	
+3215	# sent = 293																
+3216		Да	ДА	PART			?   _Да_ ,  похо	а	д					PART	ДА	PART	А
+3217		,	,	PUNCT										PUNCT			
+3218	"<distinct form="""																
+3219	<dist>	похо															
+3220	""">"																
+3221		похоже	ПОХОЖЕ	ADV -			 похо  _похоже_  . 	е	ж	о	х	о	п	ADV	ПОХОЖЕ	ADV -	Е
+3222	</distinct>																
+3223		.	.	PUNCT										PUNCT			
+3224																	
+3225	# sent = 294																
+3226		Это	ЭТО	SPRO n - nom sg			".   _Это_ чувак из """	о	т	э				SPRO	ЭТО	S n - nom sg	О
+3227		чувак	ЧУВАК	S m anim nom sg			"  Это _чувак_ из "" Ворониных"	к	а	в	у	ч		S	ЧУВАК	S m anim nom sg	К
+3228		из	ИЗ	PR			" Это чувак _из_ "" Ворониных """	з	и					PR	ИЗ	PR	З
+3229		""""	""""	PUNCT										PUNCT			
+3230		Ворониных	ВОРОНИН	S - anim gen pl famn			"чувак из "" _Ворониных_ "" . "	х	ы	н	и	н	о	S	ВОРОНИН	S - anim gen pl	Н
+3231		""""	""""	PUNCT										PUNCT			
+3232		.	.	PUNCT										PUNCT			
+3233																	
+3234	# sent = 295																
+3235		Филя	ФИЛЯ	S m anim nom sg persn			.   _Филя_ и Киря .	я	л	и	ф			S	ФИЛЯ	S m anim nom sg	Я
+3236		и	И	CONJ			  Филя _и_ Киря . 	и						CONJ	И	CONJ	И
+3237		Киря	КИРЯ	S m anim nom sg persn			 Филя и _Киря_ .  	я	р	и	к			S	КИРЯ	S m anim nom sg	Я
+3238		.	.	PUNCT										PUNCT			
+3239																	
+3240	# sent = 296																
+3241		Они	ОНИ	SPRO pl - - nom			.   _Они_ платят ему деньги	и	н	о				SPRO	ОНИ	SPRO pl - - nom	И
+3242		платят	ПЛАТИТЬ	V ipf praes pl indic - 3p			  Они _платят_ ему деньги .	т	я	т	а	л	п	V	ПЛАТИТЬ	V ipf praes pl indic - 3p	Ь
+3243		ему	ОН	SPRO sg 3p m dat			 Они платят _ему_ деньги . 	у	м	е				SPRO	ОН	SPRO sg 3p m dat	Н
+3244		деньги	ДЕНЬГИ	S - inan acc pl			Они платят ему _деньги_ .  	и	г	ь	н	е	д	S	ДЕНЬГИ	S - inan acc pl	И
+3245		.	.	PUNCT										PUNCT			
+3246																	
+3247	# sent = 297																
+3248		Платят	ПЛАТИТЬ	V ipf praes pl indic - 3p			.   _Платят_  день 	т	я	т	а	л	п	V	ПЛАТИТЬ	V ipf praes pl indic - 3p	Ь
+3249	"<distinct form="""																
+3250	<dist>	день															
+3251	""">"																
+3252		деньги	ДЕНЬГИ	S - inan acc pl			 день  _деньги_  . 	и	г	ь	н	е	д	S	ДЕНЬГИ	S - inan acc pl	И
+3253	</distinct>																
+3254		.	.	PUNCT										PUNCT			
+3255																	
+3256	# sent = 298																
+3257		Чувак	ЧУВАК	S m anim nom sg			.   _Чувак_ ...  	к	а	в	у	ч		S	ЧУВАК	S m anim nom sg	К
+3258		...	...	PUNCT										PUNCT			
+3259																	
+3260	# sent = 299																
+3261	# speaker = Глеб																
+3262	# sent = 300																
+3263		Господи	ГОСПОДИ	INTJ			   _Господи_ , у них	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3264		,	,	PUNCT										PUNCT			
+3265		у	У	PR			 Господи , _у_ них всех траур	у						PR	У	PR	У
+3266		них	ОНИ	SPRO pl - - gen			Господи , у _них_ всех траур там	х	и	н				SPRO	ОНИ	SPRO pl - - loc	И
+3267		всех	ВЕСЬ	APRO - gen pl plen - -			, у них _всех_ траур там ,	х	е	с	в			APRO	ВЕСЬ	A - gen pl plen - -	Ь
+3268		траур	ТРАУР	S m inan nom sg			у них всех _траур_ там , самогонный	р	у	а	р	т		S	ТРАУР	S m inan nom sg	Р
+3269		там	ТАМ	ADV -			них всех траур _там_ , самогонный аппарат	м	а	т				ADV	ТАМ	ADV -	М
+3270		,	,	PUNCT										PUNCT			
+3271		самогонный	САМОГОННЫЙ	A - nom sg plen m inan			траур там , _самогонный_ аппарат взорвался 	й	ы	н	н	о	г	A	САМОГОННЫЙ	A - acc sg plen m inan	Й
+3272		аппарат	АППАРАТ	S m inan nom sg			там , самогонный _аппарат_ взорвался  взорвался	т	а	р	а	п	п	S	АППАРАТ	S m inan acc sg	Т
+3273		взорвался	ВЗОРВАТЬСЯ	V pf praet sg indic m -			, самогонный аппарат _взорвался_  взорвался ,	я	с	л	а	в	р	V	ВЗОРВАТЬСЯ	V pf praet sg indic m -	Я
+3274	<noindex>[нрзб]</noindex>																
+3275		взорвался	ВЗОРВАТЬСЯ	V pf praet sg indic m -			аппарат взорвался  _взорвался_ , ужасно .	я	с	л	а	в	р	V	ВЗОРВАТЬСЯ	V pf praet sg indic m -	Я
+3276		,	,	PUNCT										PUNCT			
+3277		ужасно	УЖАСНО	ADV -			 взорвался , _ужасно_ .  	о	н	с	а	ж	у	ADV	УЖАСНО	ADV -	О
+3278		.	.	PUNCT										PUNCT			
+3279																	
+3280	# sent = 301																
+3281		Конь	КОНЬ	S m anim nom sg			.   _Конь_ заржал так ,	ь	н	о	к			S	КОНЬ	S m anim nom sg	Ь
+3282		заржал	ЗАРЖАТЬ	V pf praet sg indic m -			  Конь _заржал_ так , что	л	а	ж	р	а	з	V	ЗАРЖАТЬ	V pf praet sg indic m -	Ь
+3283		так	ТАК	ADV -			 Конь заржал _так_ , что как	к	а	т				ADV	ТАК	ADV -	К
+3284		,	,	PUNCT										PUNCT			
+3285		что	ЧТО	CONJ			заржал так , _что_ как будто у	о	т	ч				CONJ	ЧТО	CONJ	О
+3286		как	КАК	ADV -			так , что _как_ будто у него	к	а	к				ADV	КАК	ADV -	К
+3287		будто	БУДТО	PART			, что как _будто_ у него траур	о	т	д	у	б		PART	БУДТО	PART	О
+3288		у	У	PR			что как будто _у_ него траур .	у						PR	У	PR	У
+3289		него	ОН	SPRO sg 3p m gen			как будто у _него_ траур . 	о	г	е	н			SPRO	ОН	SPRO sg 3p m acc	Н
+3290		траур	ТРАУР	S m inan nom sg			будто у него _траур_ .  	р	у	а	р	т		S	ТРАУР	S m inan nom sg	Р
+3291		.	.	PUNCT										PUNCT			
+3292																	
+3293	# sent = 302																
+3294	# speaker = Глеб																
+3295	# sent = 303																
+3296		О	О	PR			   _О_ , музло пошло	о						PR	О	PR	О
+3297		,	,	PUNCT										PUNCT			
+3298		музло	МУЗЛО	S n inan nom sg	new		 О , _музло_ пошло . 	о	л	з	у	м		S	МУЗЛО	S m anim nom sg	О
+3299		пошло	ПОЙТИ	V pf praet sg indic n -			О , музло _пошло_ .  	о	л	ш	о	п		V	ПОЙТИ	V pf praet sg indic n -	И
+3300		.	.	PUNCT										PUNCT			
+3301																	
+3302	# sent = 304																
+3303		Тут	ТУТ	ADV -			.   _Тут_ типа в этой	т	у	т				ADV	ТУТ	ADV -	Т
+3304		типа	ТИПА	PART			  Тут _типа_ в этой деревне	а	п	и	т			PART	ТИПА	PART	А
+3305		в	В	PR			 Тут типа _в_ этой деревне что-то	в						PR	В	PR	В
+3306		этой	ЭТОТ	APRO - loc sg plen f -			Тут типа в _этой_ деревне что-то произошло	й	о	т	э			APRO	ЭТОТ	A - loc sg plen f -	Т
+3307		деревне	ДЕРЕВНЯ	S f inan loc sg			типа в этой _деревне_ что-то произошло ?	е	н	в	е	р	е	S	ДЕРЕВНЯ	S f inan loc sg	Я
+3308		что-то	ЧТО-ТО	SPRO n inan nom sg			в этой деревне _что-то_ произошло ? 	о	т	-	о	т	ч	SPRO	ЧТО-ТО	S n - nom sg	О
+3309		произошло	ПРОИЗОЙТИ	V pf praet sg indic n -			этой деревне что-то _произошло_ ?  	о	л	ш	о	з	и	V	ПРОИЗОЙТИ	V pf praet sg indic n -	И
+3310		?	?	PUNCT										PUNCT			
+3311																	
+3312	# sent = 305																
+3313		Тут	ТУТ	ADV -			?   _Тут_ , тут какие-то	т	у	т				ADV	ТУТ	ADV -	Т
+3314		,	,	PUNCT										PUNCT			
+3315		тут	ТУТ	ADV -			 Тут , _тут_ какие-то все типа	т	у	т				ADV	ТУТ	ADV -	Т
+3316		какие-то	КАКОЙ-ТО	APRO - nom pl plen - -			Тут , тут _какие-то_ все типа ...	о	т	-	е	и	к	APRO	КАКОЙ-ТО	A - nom pl plen - -	О
+3317		все	ВСЕ	SPRO - - nom pl			, тут какие-то _все_ типа ... 	е	с	в				S	ВСЕ	S - - acc pl	Е
+3318		типа	ТИПА	PART			тут какие-то все _типа_ ...  	а	п	и	т			PART	ТИПА	PART	А
+3319		...	...	PUNCT										PUNCT			
+3320																	
+3321	# sent = 306																
+3322	# speaker = Глеб																
+3323	# sent = 307																
+3324		Баба	БАБА	S f anim nom sg			   _Баба_ жрёт свёклу ,	а	б	а	б			S	БАБА	S f anim nom sg	А
+3325		жрёт	ЖРАТЬ	V ipf praes sg indic - 3p			  Баба _жрёт_ свёклу , 	т	ё	р	ж			V	ЖРАТЬ	V ipf praes sg indic - 3p	Ь
+3326		свёклу	СВЕКЛА	S f inan acc sg			 Баба жрёт _свёклу_ ,  госп	у	л	к	ё	в	с	S	СВЕКЛА	S f inan acc sg	А
+3327		,	,	PUNCT										PUNCT			
+3328	"<distinct form="""																
+3329	<dist>	госп															
+3330	""">"																
+3331		господи	ГОСПОДИ	INTJ			 госп  _господи_  . 	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3332	</distinct>																
+3333		.	.	PUNCT										PUNCT			
+3334																	
+3335	# sent = 308																
+3336		Ну	НУ	PART			.   _Ну_ ладно , баба	у	н					PART	НУ	PART	У
+3337		ладно	ЛАДНО	PART			  Ну _ладно_ , баба красивая	о	н	д	а	л		PART	ЛАДНО	PART	О
+3338		,	,	PUNCT										PUNCT			
+3339		баба	БАБА	S f anim nom sg			Ну ладно , _баба_ красивая . 	а	б	а	б			S	БАБА	S f anim nom sg	А
+3340		красивая	КРАСИВЫЙ	A - nom sg plen f -			ладно , баба _красивая_ .  	я	а	в	и	с	а	A	КРАСИВЫЙ	A - nom sg plen f -	Й
+3341		.	.	PUNCT										PUNCT			
+3342																	
+3343	# sent = 309																
+3344		Там	ТАМ	ADV -			.   _Там_  отрублен 	м	а	т				ADV	ТАМ	ADV -	М
+3345	"<distinct form="""																
+3346	<dist>	отрублен															
+3347	""">"																
+3348		отрубленная	ОТРУБИТЬ	PARTCP pf praet nom sg plen f pass -			 отрублен  _отрубленная_  ... 	я	а	н	н	е	л	PARTCP	ОТРУБИТЬ	PARTCP pf praet nom sg plen f pass -	Ь
+3349	</distinct>																
+3350		...	...	PUNCT										PUNCT			
+3351																	
+3352	# sent = 310																
+3353	"<distinct form="""																
+3354	<dist>	ааа															
+3355	""">"																
+3356		А	А	CONJ			 ааа  _А_  , типа	а						CONJ	А	S - - nonflex -	А
+3357	</distinct>																
+3358		,	,	PUNCT										PUNCT			
+3359		типа	ТИПА	PART			А  , _типа_ , вот он	а	п	и	т			PART	ТИПА	PART	А
+3360		,	,	PUNCT										PUNCT			
+3361		вот	ВОТ	PART			, типа , _вот_ он , хоррор	т	о	в				PART	ВОТ	PART	Т
+3362		он	ОН	SPRO sg 3p m nom			типа , вот _он_ , хоррор ?	н	о					SPRO	ОН	SPRO sg 3p m nom	Н
+3363		,	,	PUNCT										PUNCT			
+3364		хоррор	ХОРРОР	S m inan acc sg			вот он , _хоррор_ ?  	р	о	р	р	о	х	S	ХОРРОР	S m inan acc sg	Р
+3365		?	?	PUNCT										PUNCT			
+3366																	
+3367	# sent = 311																
+3368		Типа	ТИПА	PART			?   _Типа_ они делают борщ	а	п	и	т			PART	ТИПА	PART	А
+3369		они	ОНИ	SPRO pl - - nom			  Типа _они_ делают борщ из	и	н	о				SPRO	ОНИ	SPRO pl - - nom	И
+3370		делают	ДЕЛАТЬ	V ipf praes pl indic - 3p			 Типа они _делают_ борщ из людей	т	ю	а	л	е	д	V	ДЕЛАТЬ	V ipf praes pl indic - 3p	Ь
+3371		борщ	БОРЩ	S m inan acc sg			Типа они делают _борщ_ из людей ?	щ	р	о	б			S	БОРЩ	S m inan acc sg	Щ
+3372		из	ИЗ	PR			они делают борщ _из_ людей ? 	з	и					PR	ИЗ	PR	З
+3373		людей	ЧЕЛОВЕК	S m anim gen pl			делают борщ из _людей_ ?  	й	е	д	ю	л		S	ЧЕЛОВЕК	S m anim gen pl	К
+3374		?	?	PUNCT										PUNCT			
+3375																	
+3376	# sent = 312																
+3377	# speaker = Глеб																
+3378	# sent = 313																
+3379		Господи	ГОСПОДИ	INTJ			   _Господи_ , как Феофан	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3380		,	,	PUNCT										PUNCT			
+3381		как	КАК	CONJ			 Господи , _как_ Феофан . 	к	а	к				CONJ	КАК	CONJ	К
+3382		Феофан	ФЕОФАН	S m anim nom sg persn			Господи , как _Феофан_ .  	н	а	ф	о	е	ф	S	ФЕОФАН	S m anim nom sg	Н
+3383		.	.	PUNCT										PUNCT			
+3384																	
+3385	# sent = 314																
+3386		Бог	БОГ	S m anim nom sg			.   _Бог_ суров , да	г	о	б				S	БОГ	S m anim nom sg	Г
+3387		суров	СУРОВЫЙ	A - - sg brev m -			  Бог _суров_ , да .	в	о	р	у	с		A	СУРОВЫЙ	A - - sg brev m -	Й
+3388		,	,	PUNCT										PUNCT			
+3389		да	ДА	PART			Бог суров , _да_ .  	а	д					PART	ДА	PART	А
+3390		.	.	PUNCT										PUNCT			
+3391																	
+3392	# sent = 315																
+3393		Ну	НУ	PART			.   _Ну_ блин , манекенов	у	н					PART	НУ	PART	У
+3394		блин	БЛИН	INTJ			  Ну _блин_ , манекенов просто	н	и	л	б			S	БЛИН	S m inan nom sg	Н
+3395		,	,	PUNCT										PUNCT			
+3396		манекенов	МАНЕКЕН	S m anim gen pl			Ну блин , _манекенов_ просто понабрали .	в	о	н	е	к	е	S	МАНЕКЕН	S m inan gen pl	Н
+3397		просто	ПРОСТО	ADV -			блин , манекенов _просто_ понабрали . 	о	т	с	о	р	п	ADV	ПРОСТО	ADV -	О
+3398		понабрали	ПОНАБРАТЬ	V pf praet pl indic - -			, манекенов просто _понабрали_ .  	и	л	а	р	б	а	V	ПОНАБРАТЬ	V pf praet pl indic - -	Ь
+3399		.	.	PUNCT										PUNCT			
+3400																	
+3401	# sent = 316																
+3402		Моя	МОЙ	APRO - nom sg plen f -			.   _Моя_ изба , господи	я	о	м				APRO	МОЙ	A - nom sg plen f -	Й
+3403		изба	ИЗБА	S f inan nom sg			  Моя _изба_ , господи .	а	б	з	и			S	ИЗБА	S f inan nom sg	А
+3404		,	,	PUNCT										PUNCT			
+3405		господи	ГОСПОДИ	INTJ			Моя изба , _господи_ .  	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3406		.	.	PUNCT										PUNCT			
+3407																	
+3408	# sent = 317																
+3409		Кот	КОТ	S m anim nom sg			.   _Кот_ , бабка толстая	т	о	к				S	КОТ	S m anim nom sg	Т
+3410		,	,	PUNCT										PUNCT			
+3411		бабка	БАБКА	S f anim nom sg			 Кот , _бабка_ толстая , она	а	к	б	а	б		S	БАБКА	S f anim nom sg	А
+3412		толстая	ТОЛСТЫЙ	A - nom sg plen f -			Кот , бабка _толстая_ , она тоже	я	а	т	с	л	о	A	ТОЛСТЫЙ	A - nom sg plen f -	Й
+3413		,	,	PUNCT										PUNCT			
+3414		она	ОНА	SPRO sg 3p f nom			бабка толстая , _она_ тоже , наверное	а	н	о				SPRO	ОНА	SPRO sg 3p f nom	А
+3415		тоже	ТОЖЕ	PART			толстая , она _тоже_ , наверное ,	е	ж	о	т			PART	ТОЖЕ	PART	Е
+3416		,	,	PUNCT										PUNCT			
+3417		наверное	НАВЕРНОЕ	ADV -			она тоже , _наверное_ ,  щас	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+3418		,	,	PUNCT										PUNCT			
+3419	"<distinct form="""																
+3420	<dist>	щас															
+3421	""">"																
+3422		сейчас	СЕЙЧАС	ADV -			 щас  _сейчас_  будет кого-то	с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -	С
+3423	</distinct>																
+3424		будет	БЫТЬ	V ipf fut sg indic - 3p			 сейчас  _будет_ кого-то убивать .	т	е	д	у	б		V	БЫТЬ	V ipf praes sg indic - 3p	Ь
+3425		кого-то	КТО-ТО	SPRO m - acc sg			сейчас  будет _кого-то_ убивать . 	о	т	-	о	г	о	S	КТО-ТО	S m - acc sg	О
+3426		убивать	УБИВАТЬ	V ipf - - inf - -			 будет кого-то _убивать_ .  	ь	т	а	в	и	б	V	УБИВАТЬ	V ipf - - inf - -	Ь
+3427		.	.	PUNCT										PUNCT			
+3428																	
+3429	# sent = 318																
+3430	# speaker = Глеб																
+3431	# sent = 319																
+3432		Удивительно	УДИВИТЕЛЬНО	ADV -			   _Удивительно_ .  	о	н	ь	л	е	т	ADV	УДИВИТЕЛЬНО	ADV -	О
+3433		.	.	PUNCT										PUNCT			
+3434																	
+3435	# sent = 320																
+3436		Подожди	ПОДОЖДАТЬ	V pf - sg imper - 2p			.   _Подожди_ , я не	и	д	ж	о	д	о	V	ПОДОЖДАТЬ	V pf - sg imper - 2p	Ь
+3437		,	,	PUNCT										PUNCT			
+3438		я	Я	SPRO sg 1p - nom			 Подожди , _я_ не вижу связи	я						SPRO	Я	SPRO sg 1p - nom	Я
+3439		не	НЕ	PART			Подожди , я _не_ вижу связи между	е	н					PART	НЕ	PART	Е
+3440		вижу	ВИДЕТЬ	V ipf praes sg indic - 1p			, я не _вижу_ связи между виски	у	ж	и	в			V	ВИДЕТЬ	V ipf praes sg indic - 1p	Ь
+3441		связи	СВЯЗЬ	S f inan gen sg			я не вижу _связи_ между виски и	и	з	я	в	с		S	СВЯЗЬ	S f inan gen sg	Ь
+3442		между	МЕЖДУ	PR			не вижу связи _между_ виски и борщом	у	д	ж	е	м		PR	МЕЖДУ	PR	У
+3443		виски	ВИСКИ	S m/n inan ins sg 0			вижу связи между _виски_ и борщом .	и	к	с	и	в		S	ВИСОК	S m inan acc pl	И
+3444		и	И	CONJ			связи между виски _и_ борщом . 	и						CONJ	И	CONJ	И
+3445		борщом	БОРЩ	S m inan ins sg			между виски и _борщом_ .  	м	о	щ	р	о	б	S	БОРЩ	S m inan ins sg	Щ
+3446		.	.	PUNCT										PUNCT			
+3447																	
+3448	# sent = 321																
+3449		Я	Я	SPRO sg 1p - nom			.   _Я_ не люблю ни	я						SPRO	Я	SPRO sg 1p - nom	Я
+3450		не	НЕ	PART			  Я _не_ люблю ни виски	е	н					PART	НЕ	PART	Е
+3451		люблю	ЛЮБИТЬ	V ipf praes sg indic - 1p			 Я не _люблю_ ни виски ,	ю	л	б	ю	л		V	ЛЮБИТЬ	V ipf praes sg indic - 1p	Ь
+3452		ни	НИ	CONJ			Я не люблю _ни_ виски , ни	и	н					CONJ	НИ	CONJ	И
+3453		виски	ВИСКИ	S m/n inan acc sg 0			не люблю ни _виски_ , ни борщ	и	к	с	и	в		S	ВИСОК	S m inan acc pl	И
+3454		,	,	PUNCT										PUNCT			
+3455		ни	НИ	CONJ			ни виски , _ни_ борщ . 	и	н					CONJ	НИ	CONJ	И
+3456		борщ	БОРЩ	S m inan acc sg			виски , ни _борщ_ .  	щ	р	о	б			S	БОРЩ	S m inan nom sg	Щ
+3457		.	.	PUNCT										PUNCT			
+3458																	
+3459	# sent = 322																
+3460	# speaker = Глеб																
+3461	# sent = 323																
+3462	"<distinct form="""																
+3463	<dist>	госпди															
+3464	""">"																
+3465		Господи	ГОСПОДИ	INTJ			 госпди  _Господи_  , там	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3466	</distinct>																
+3467		,	,	PUNCT										PUNCT			
+3468		там	ТАМ	ADV -			Господи  , _там_ на заднем плане	м	а	т				ADV	ТАМ	ADV -	М
+3469		на	НА	PR			 , там _на_ заднем плане дед	а	н					PR	НА	PR	А
+3470		заднем	ЗАДНИЙ	A - loc sg plen m -			, там на _заднем_ плане дед 	м	е	н	д	а	з	A	ЗАДНИЙ	A - loc sg plen m -	Й
+3471		плане	ПЛАН	S m inan loc sg			там на заднем _плане_ дед  чо-то	е	н	а	л	п		S	ПЛАН	S m inan loc sg	Н
+3472		дед	ДЕД	S m anim nom sg			на заднем плане _дед_  чо-то 	д	е	д				S	ДЕД	S m anim nom sg	Д
+3473	"<distinct form="""																
+3474	<dist>	чо-то															
+3475	""">"																
+3476		что-то	ЧТО-ТО	SPRO n inan acc sg			 чо-то  _что-то_  делает со	о	т	-	о	т	ч	SPRO	ЧТО-ТО	S n - acc sg	О
+3477	</distinct>																
+3478		делает	ДЕЛАТЬ	V ipf praes sg indic - 3p			 что-то  _делает_ со свёклой .	т	е	а	л	е	д	V	ДЕЛАТЬ	V ipf praes sg indic - 3p	Ь
+3479		со	СО	PR			что-то  делает _со_ свёклой . 	о	с					PR	СО	PR	О
+3480		свёклой	СВЕКЛА	S f inan ins sg			 делает со _свёклой_ .  	й	о	л	к	ё	в	S	СВЕКЛА	S f inan ins sg	А
+3481		.	.	PUNCT										PUNCT			
+3482																	
+3483	# sent = 324																
+3484		С	С	PR			.   _С_ такими постными лицами	с						PR	С	PR	С
+3485		такими	ТАКОЙ	APRO - ins pl plen - -			  С _такими_ постными лицами .	и	м	и	к	а	т	APRO	ТАКОЙ	A - ins pl plen - -	Й
+3486		постными	ПОСТНЫЙ	A - ins pl plen - -			 С такими _постными_ лицами . 	и	м	ы	н	т	с	A	ПОСТНЫЙ	A - ins pl plen - -	Й
+3487		лицами	ЛИЦО	S n anim ins pl			С такими постными _лицами_ .  	и	м	а	ц	и	л	S	ЛИЦО	S n anim ins pl	О
+3488		.	.	PUNCT										PUNCT			
+3489																	
+3490	# sent = 325																
+3491		Ох	ОХ	INTJ			.   _Ох_ , ох ,	х	о					INTJ	ОХ	INTJ	Х
+3492		,	,	PUNCT										PUNCT			
+3493		ох	ОХ	INTJ			 Ох , _ох_ , ох ,	х	о					INTJ	ОХ	INTJ	Х
+3494		,	,	PUNCT										PUNCT			
+3495		ох	ОХ	INTJ			, ох , _ох_ , пошел dance	х	о					INTJ	ОХ	INTJ	Х
+3496		,	,	PUNCT										PUNCT			
+3497		пошел	ПОЙТИ	V pf praet sg indic m -			, ох , _пошел_ dance , dance	л	е	ш	о	п		V	ПОЙТИ	V pf praet sg indic m -	И
+3498		dance	DANCE	NONLEX			ох , пошел _dance_ , dance ,	e	c	n	a	d		NONLEX	DANCE	NONLEX	E
+3499		,	,	PUNCT										PUNCT			
+3500		dance	DANCE	NONLEX			пошел dance , _dance_ , dance ,	e	c	n	a	d		NONLEX	DANCE	NONLEX	E
+3501		,	,	PUNCT										PUNCT			
+3502		dance	DANCE	NONLEX			, dance , _dance_ , dance поехал	e	c	n	a	d		NONLEX	DANCE	NONLEX	E
+3503		,	,	PUNCT										PUNCT			
+3504		dance	DANCE	NONLEX			, dance , _dance_ поехал . 	e	c	n	a	d		NONLEX	DANCE	NONLEX	E
+3505		поехал	ПОЕХАТЬ	V pf praet sg indic m -			dance , dance _поехал_ .  	л	а	х	е	о	п	V	ПОЕХАТЬ	V pf praet sg indic m -	Ь
+3506		.	.	PUNCT										PUNCT			
+3507																	
+3508	# sent = 326																
+3509	# speaker = Глеб																
+3510	# sent = 327																
+3511		Так	ТАК	ADV -			   _Так_ .  	к	а	т				ADV	ТАК	ADV -	К
+3512		.	.	PUNCT										PUNCT			
+3513																	
+3514	# sent = 328																
+3515		У	У	PR			.   _У_ всех такие лица	у						PR	У	PR	У
+3516		всех	ВСЕ	S - - gen pl			  У _всех_ такие лица ...	х	е	с	в			S	ВСЕ	S - - loc pl	Е
+3517		такие	ТАКОЙ	APRO - nom pl plen - -			 У всех _такие_ лица ... 	е	и	к	а	т		APRO	ТАКОЙ	A - nom pl plen - -	Й
+3518		лица	ЛИЦО	S n inan nom pl			У всех такие _лица_ ...  	а	ц	и	л			S	ЛИЦО	S n inan nom pl	О
+3519		...	...	PUNCT										PUNCT			
+3520																	
+3521	# sent = 329																
+3522		Я	Я	SPRO sg 1p - nom			...   _Я_ не понял ,	я						SPRO	Я	SPRO sg 1p - nom	Я
+3523		не	НЕ	PART			  Я _не_ понял , у	е	н					PART	НЕ	PART	Е
+3524		понял	ПОНЯТЬ	V pf praet sg indic m -			 Я не _понял_ , у них	л	я	н	о	п		V	ПОНЯТЬ	V pf praet sg indic m -	Ь
+3525		,	,	PUNCT										PUNCT			
+3526		у	У	PR			не понял , _у_ них у всех	у						PR	У	PR	У
+3527		них	ОНИ	SPRO pl - - gen			понял , у _них_ у всех траур	х	и	н				SPRO	ОНИ	SPRO pl - - loc	И
+3528		у	У	PR			, у них _у_ всех траур или	у						PR	У	PR	У
+3529		всех	ВСЕ	S - - gen pl			у них у _всех_ траур или они	х	е	с	в			S	ВСЕ	S - - gen pl	Е
+3530		траур	ТРАУР	S m inan nom sg			них у всех _траур_ или они просто	р	у	а	р	т		S	ТРАУР	S m inan nom sg	Р
+3531		или	ИЛИ	CONJ			у всех траур _или_ они просто ненавидят	и	л	и				CONJ	ИЛИ	CONJ	И
+3532		они	ОНИ	SPRO pl - - nom			всех траур или _они_ просто ненавидят этих	и	н	о				SPRO	ОНИ	SPRO pl - - nom	И
+3533		просто	ПРОСТО	PART			траур или они _просто_ ненавидят этих людей	о	т	с	о	р	п	PART	ПРОСТО	PART	О
+3534		ненавидят	НЕНАВИДЕТЬ	V ipf praes pl indic - 3p			или они просто _ненавидят_ этих людей ,	т	я	д	и	в	а	V	НЕНАВИДЕТЬ	V ipf praes pl indic - 3p	Ь
+3535		этих	ЭТОТ	APRO - acc pl plen - anim			они просто ненавидят _этих_ людей , которые	х	и	т	э			APRO	ЭТОТ	A - gen pl plen - -	Т
+3536		людей	ЧЕЛОВЕК	S m anim gen pl			просто ненавидят этих _людей_ , которые с	й	е	д	ю	л		S	ЧЕЛОВЕК	S m anim gen pl	К
+3537		,	,	PUNCT										PUNCT			
+3538		которые	КОТОРЫЙ	APRO - nom pl plen - -			этих людей , _которые_ с виски сюда	е	ы	р	о	т	о	APRO	КОТОРЫЙ	A - nom pl plen - -	Й
+3539		с	С	PR			людей , которые _с_ виски сюда приехали	с						PR	С	PR	С
+3540		виски	ВИСКИ	S m/n inan ins sg 0			, которые с _виски_ сюда приехали ?	и	к	с	и	в		S	ВИСКИ	S m inan nonflex -	И
+3541		сюда	СЮДА	ADV -			которые с виски _сюда_ приехали ? 	а	д	ю	с			ADV	СЮДА	ADV -	А
+3542		приехали	ПРИЕХАТЬ	V pf praet pl indic - -			с виски сюда _приехали_ ?  	и	л	а	х	е	и	V	ПРИЕХАТЬ	V pf praet pl indic - -	Ь
+3543		?	?	PUNCT										PUNCT			
+3544																	
+3545	# sent = 330																
+3546	# speaker = Глеб																
+3547	# sent = 331																
+3548		Блин	БЛИН	INTJ			   _Блин_ , как в	н	и	л	б			S	БЛИН	S m inan acc sg	Н
+3549		,	,	PUNCT										PUNCT			
+3550		как	КАК	CONJ			 Блин , _как_ в мифе о	к	а	к				CONJ	КАК	CONJ	К
+3551		в	В	PR			Блин , как _в_ мифе о Тантале	в						PR	В	PR	В
+3552		мифе	МИФ	S m inan loc sg			, как в _мифе_ о Тантале .	е	ф	и	м			S	МИФ	S f inan acc sg	Ф
+3553		о	О	PR			как в мифе _о_ Тантале . 	о						PR	О	PR	О
+3554		Тантале	ТАНТАЛ	S m anim loc sg			в мифе о _Тантале_ .  	е	л	а	т	н	а	S	ТАНТАЛ	S m inan loc sg	Л
+3555		.	.	PUNCT										PUNCT			
+3556																	
+3557	# sent = 332																
+3558	"<distinct form="""																
+3559	<dist>	щас															
+3560	""">"																
+3561		Сейчас	СЕЙЧАС	ADV -			 щас  _Сейчас_  ... 	с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -	С
+3562	</distinct>																
+3563		...	...	PUNCT										PUNCT			
+3564																	
+3565	# sent = 333																
+3566		Что	ЧТО	SPRO n inan nom sg			...   _Что_ это такое ?	о	т	ч				SPRO	ЧТО	S n - nom sg	О
+3567		это	ЭТО	SPRO n - nom sg			  Что _это_ такое ? 	о	т	э				SPRO	ЭТО	S n - nom sg	О
+3568		такое	ТАКОЙ	APRO - nom sg plen n -			 Что это _такое_ ?  	е	о	к	а	т		APRO	ТАКОЙ	A - nom sg plen n -	Й
+3569		?	?	PUNCT										PUNCT			
+3570																	
+3571	# sent = 334																
+3572		Кого	КТО	SPRO m - acc sg			?   _Кого_ они ? ..	о	г	о	к			S	КТО	S m - acc sg	О
+3573		они	ОНИ	SPRO pl - - nom			  Кого _они_ ? .. 	и	н	о				SPRO	ОНИ	SPRO pl - - nom	И
+3574		?	?..	PUNCT										PUNCT			
+3575		..	..	PUNCT										PUNCT			
+3576																	
+3577	# sent = 335																
+3578		Они	ОНИ	SPRO pl - - nom			..   _Они_ выпустили бородатую шлюху	и	н	о				SPRO	ОНИ	SPRO pl - - nom	И
+3579		выпустили	ВЫПУСТИТЬ	V pf praet pl indic - -			  Они _выпустили_ бородатую шлюху ?	и	л	и	т	с	у	V	ВЫПУСТИТЬ	V pf praet pl indic - -	Ь
+3580		бородатую	БОРОДАТЫЙ	A - acc sg plen f -			 Они выпустили _бородатую_ шлюху ? 	ю	у	т	а	д	о	A	БОРОДАТЫЙ	A - acc sg plen f -	Й
+3581		шлюху	ШЛЮХА	S f anim acc sg			Они выпустили бородатую _шлюху_ ?  	у	х	ю	л	ш		S	ШЛЮХА	S f anim acc sg	А
+3582		?	?	PUNCT										PUNCT			
+3583																	
+3584	# sent = 336																
+3585		Из	ИЗ	PR			?   _Из_ клетки . 	з	и					PR	ИЗ	PR	З
+3586		клетки	КЛЕТКА	S f inan gen sg			  Из _клетки_ .  	и	к	т	е	л	к	S	КЛЕТКА	S f inan gen sg	А
+3587		.	.	PUNCT										PUNCT			
+3588																	
+3589	# sent = 337																
+3590		Бородатую	БОРОДАТЫЙ	A - acc sg plen f -			.   _Бородатую_ шлюху . 	ю	у	т	а	д	о	A	БОРОДАТЫЙ	A - acc sg plen f -	Й
+3591		шлюху	ШЛЮХА	S f anim acc sg			  Бородатую _шлюху_ .  	у	х	ю	л	ш		S	ШЛЮХА	S f anim acc sg	А
+3592		.	.	PUNCT										PUNCT			
+3593																	
+3594	# sent = 338																
+3595		Но	НО	CONJ			.   _Но_ сиськи хорошие ,	о	н					CONJ	НО	CONJ	О
+3596		сиськи	СИСЬКА	S f inan nom pl			  Но _сиськи_ хорошие , да	и	к	ь	с	и	с	S	СИСЬКА	S f inan acc pl	А
+3597		хорошие	ХОРОШИЙ	A - nom pl plen - -			 Но сиськи _хорошие_ , да .	е	и	ш	о	р	о	A	ХОРОШИЙ	A - nom pl plen - -	Й
+3598		,	,	PUNCT										PUNCT			
+3599		да	ДА	PART			сиськи хорошие , _да_ .  	а	д					PART	ДА	PART	А
+3600		.	.	PUNCT										PUNCT			
+3601																	
+3602	# sent = 339																
+3603	# speaker = Глеб																
+3604	# sent = 340																
+3605		Господи	ГОСПОДИ	INTJ			   _Господи_ .  	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3606		.	.	PUNCT										PUNCT			
+3607																	
+3608	# sent = 341																
+3609		Канкан	КАНКАН	S m inan nom sg			.   _Канкан_ с балалайками .	н	а	к	н	а	к	S	КАНКАН	S m inan nom sg	Н
+3610		с	С	PR			  Канкан _с_ балалайками . 	с						PR	С	PR	С
+3611		балалайками	БАЛАЛАЙКА	S f inan ins pl			 Канкан с _балалайками_ .  	и	м	а	к	й	а	S	БАЛАЛАЙКА	S f inan ins pl	А
+3612		.	.	PUNCT										PUNCT			
+3613																	
+3614	# sent = 342																
+3615		Иностранцам	ИНОСТРАНЕЦ	S m anim dat pl			.   _Иностранцам_ нельзя показывать этот	м	а	ц	н	а	р	S	ИНОСТРАНЕЦ	S m anim dat pl	Ц
+3616		нельзя	НЕЛЬЗЯ	PRAEDIC			  Иностранцам _нельзя_ показывать этот клип	я	з	ь	л	е	н	PRAEDIC	НЕЛЬЗЯ	ADV -	Я
+3617		показывать	ПОКАЗЫВАТЬ	V ipf - - inf - -			 Иностранцам нельзя _показывать_ этот клип .	ь	т	а	в	ы	з	V	ПОКАЗЫВАТЬ	V ipf - - inf - -	Ь
+3618		этот	ЭТОТ	APRO - acc sg plen m inan			Иностранцам нельзя показывать _этот_ клип . 	т	о	т	э			APRO	ЭТОТ	A - acc sg plen m inan	Т
+3619		клип	КЛИП	S m inan acc sg			нельзя показывать этот _клип_ .  	п	и	л	к			S	КЛИП	S m inan acc sg	П
+3620		.	.	PUNCT										PUNCT			
+3621																	
+3622	# sent = 343																
+3623		Там	ТАМ	ADV -			.   _Там_ расчленёнка , злые	м	а	т				ADV	ТАМ	ADV -	М
+3624		расчленёнка	РАСЧЛЕНЕНКА	S f inan nom sg			  Там _расчленёнка_ , злые русские	а	к	н	ё	н	е	S	РАСЧЛЕНЕНОК	S m anim acc sg	А
+3625		,	,	PUNCT										PUNCT			
+3626		злые	ЗЛОЙ	A - nom pl plen - -			Там расчленёнка , _злые_ русские , они	е	ы	л	з			A	ЗЛОЙ	A - nom pl plen - -	Й
+3627		русские	РУССКИЙ	S m anim nom pl			расчленёнка , злые _русские_ , они бухают	е	и	к	с	с	у	S	РУССКИЙ	S m anim nom pl	Й
+3628		,	,	PUNCT										PUNCT			
+3629		они	ОНИ	SPRO pl - - nom			злые русские , _они_ бухают , и	и	н	о				SPRO	ОНИ	SPRO pl - - nom	И
+3630		бухают	БУХАТЬ	V ipf praes pl indic - 3p			русские , они _бухают_ , и шлюхи	т	ю	а	х	у	б	V	БУХАТЬ	V ipf praes pl indic - 3p	Ь
+3631		,	,	PUNCT										PUNCT			
+3632		и	И	CONJ			они бухают , _и_ шлюхи , и	и						CONJ	И	CONJ	И
+3633		шлюхи	ШЛЮХА	S f anim nom sg			бухают , и _шлюхи_ , и 	и	х	ю	л	ш		S	ШЛЮХА	S f anim gen sg	А
+3634		,	,	PUNCT										PUNCT			
+3635		и	И	CONJ			и шлюхи , _и_  бородатые 	и						CONJ	И	CONJ	И
+3636	"<distinct form="""																
+3637	<dist>	бородатые															
+3638	""">"																
+3639		бородатые	БОРОДАТЫЙ	A - nom pl plen - -			 бородатые  _бородатые_  ... 	е	ы	т	а	д	о	A	БОРОДАТЫЙ	A - nom pl plen - -	Й
+3640	</distinct>																
+3641		...	...	PUNCT										PUNCT			
+3642																	
+3643	# sent = 344																
+3644	# speaker = Глеб																
+3645	# sent = 345																
+3646		О	О	INTJ			   _О_ ,  во	о						INTJ	О	INTJ	О
+3647		,	,	PUNCT										PUNCT			
+3648	"<distinct form="""																
+3649	<dist>	во															
+3650	""">"																
+3651		вот	ВОТ	PART			 во  _вот_  . 	т	о	в				PART	ВОТ	PART	Т
+3652	</distinct>																
+3653		.	.	PUNCT										PUNCT			
+3654																	
+3655	# sent = 346																
+3656		Пошла	ПОЙТИ	V pf praet sg indic f -			.   _Пошла_ зарисовка нашего вчерашнего	а	л	ш	о	п		V	ПОЙТИ	V pf praet sg indic f -	И
+3657		зарисовка	ЗАРИСОВКА	S f inan nom sg			  Пошла _зарисовка_ нашего вчерашнего дня	а	к	в	о	с	и	S	ЗАРИСОВКА	S f inan nom sg	А
+3658		нашего	НАШ	APRO - gen sg plen m -			 Пошла зарисовка _нашего_ вчерашнего дня .	о	г	е	ш	а	н	APRO	НАШ	A - gen sg plen m -	Ш
+3659		вчерашнего	ВЧЕРАШНИЙ	A - gen sg plen m -			Пошла зарисовка нашего _вчерашнего_ дня . 	о	г	е	н	ш	а	A	ВЧЕРАШНИЙ	A - gen sg plen m -	Й
+3660		дня	ДЕНЬ	S m inan gen sg			зарисовка нашего вчерашнего _дня_ .  	я	н	д				S	ДЕНЬ	S m inan gen sg	Ь
+3661		.	.	PUNCT										PUNCT			
+3662																	
+3663	# sent = 347																
+3664		О	О	PR			.   _О_ , виски подъехал	о						PR	О	PR	О
+3665		,	,	PUNCT										PUNCT			
+3666		виски	ВИСКИ	S m/ inan nom pl 0			 О , _виски_ подъехал . 	и	к	с	и	в		S	ВИСОК	S m inan acc pl	И
+3667		подъехал	ПОДЪЕХАТЬ	V pf praet sg indic m -			О , виски _подъехал_ .  	л	а	х	е	ъ	д	V	ПОДЪЕХАТЬ	V pf praet sg indic m -	Ь
+3668		.	.	PUNCT										PUNCT			
+3669																	
+3670	# sent = 348																
+3671		Господи	ГОСПОДИ	INTJ			.   _Господи_ , вот этот	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3672		,	,	PUNCT										PUNCT			
+3673		вот	ВОТ	PART			 Господи , _вот_ этот ... 	т	о	в				PART	ВОТ	PART	Т
+3674		этот	ЭТОТ	APRO - nom sg plen m -			Господи , вот _этот_ ...  	т	о	т	э			APRO	ЭТОТ	A - nom sg plen m -	Т
+3675		...	...	PUNCT										PUNCT			
+3676																	
+3677	# sent = 349																
+3678		Драйв	ДРАЙВ	S m inan nom sg			...   _Драйв_ , драйв .	в	й	а	р	д		S	ДРАЙВ	S m inan nom sg	В
+3679		,	,	PUNCT										PUNCT			
+3680		драйв	ДРАЙВ	S m inan nom sg			 Драйв , _драйв_ .  	в	й	а	р	д		S	ДРАЙВ	S m inan nom sg	В
+3681		.	.	PUNCT										PUNCT			
+3682																	
+3683	# sent = 350																
+3684	# speaker = Глеб																
+3685	# sent = 351																
+3686		Блин	БЛИН	INTJ			   _Блин_ , с такой	н	и	л	б			S	БЛИН	S m inan acc sg	Н
+3687		,	,	PUNCT										PUNCT			
+3688		с	С	PR			 Блин , _с_ такой нескрываемой любовью	с						PR	С	PR	С
+3689		такой	ТАКОЙ	APRO - ins sg plen f -			Блин , с _такой_ нескрываемой любовью там	й	о	к	а	т		APRO	ТАКОЙ	A - ins sg plen f -	Й
+3690		нескрываемой	НЕСКРЫВАЕМЫЙ	A - ins sg plen f -			, с такой _нескрываемой_ любовью там баба	й	о	м	е	а	в	A	НЕСКРЫВАЕМЫЙ	A - ins sg plen f -	Й
+3691		любовью	ЛЮБОВЬ	S f inan ins sg			с такой нескрываемой _любовью_ там баба смотрит	ю	ь	в	о	б	ю	S	ЛЮБОВЬ	S f inan ins sg	Ь
+3692		там	ТАМ	ADV -			такой нескрываемой любовью _там_ баба смотрит на	м	а	т				ADV	ТАМ	ADV -	М
+3693		баба	БАБА	S f anim nom sg			нескрываемой любовью там _баба_ смотрит на эту	а	б	а	б			S	БАБА	S f anim nom sg	А
+3694		смотрит	СМОТРЕТЬ	V ipf praes sg indic - 3p			любовью там баба _смотрит_ на эту бутылку	т	и	р	т	о	м	V	СМОТРЕТЬ	V ipf praes sg indic - 3p	Ь
+3695		на	НА	PR			там баба смотрит _на_ эту бутылку .	а	н					PR	НА	PR	А
+3696		эту	ЭТОТ	APRO - acc sg plen f -			баба смотрит на _эту_ бутылку . 	у	т	э				APRO	ЭТОТ	A - acc sg plen f -	Т
+3697		бутылку	БУТЫЛКА	S f inan acc sg			смотрит на эту _бутылку_ .  	у	к	л	ы	т	у	S	БУТЫЛКА	S f inan acc sg	А
+3698		.	.	PUNCT										PUNCT			
+3699																	
+3700	# sent = 352																
+3701	# speaker = Глеб																
+3702	# sent = 353																
+3703		Камера	КАМЕРА	S f inan nom sg			   _Камера_  просто приближает	а	р	е	м	а	к	S	КАМЕРА	S f inan nom sg	А
+3704	<noindex>[нрзб]</noindex>																
+3705		просто	ПРОСТО	ADV -			 Камера  _просто_ приближает . 	о	т	с	о	р	п	ADV	ПРОСТО	ADV -	О
+3706		приближает	ПРИБЛИЖАТЬ	V ipf praes sg indic - 3p			Камера  просто _приближает_ .  	т	е	а	ж	и	л	V	ПРИБЛИЖАТЬ	V ipf praes sg indic - 3p	Ь
+3707		.	.	PUNCT										PUNCT			
+3708																	
+3709	# sent = 354																
+3710		Бабе	БАБА	S f anim dat sg			.   _Бабе_ оторвали , 	е	б	а	б			S	БАБА	S f anim dat sg	А
+3711		оторвали	ОТОРВАТЬ	V pf praet pl indic - -			  Бабе _оторвали_ ,  ооо	и	л	а	в	р	о	V	ОТОРВАТЬ	V pf praet pl indic - -	Ь
+3712		,	,	PUNCT										PUNCT			
+3713	"<distinct form="""																
+3714	<dist>	ооо															
+3715	""">"																
+3716		о	О	INTJ			 ооо  _о_  , 	о						INTJ	О	S - - nonflex -	О
+3717	</distinct>																
+3718		,	,	PUNCT										PUNCT			
+3719	"<distinct form="""																
+3720	<dist>	во															
+3721	""">"																
+3722		вот	ВОТ	PART			 во  _вот_  , Россия	т	о	в				PART	ВОТ	PART	Т
+3723	</distinct>																
+3724		,	,	PUNCT										PUNCT			
+3725		Россия	РОССИЯ	S f inan nom sg			вот  , _Россия_ пошла . 	я	и	с	с	о	р	S	РОССИЯ	S f inan nom sg	Я
+3726		пошла	ПОЙТИ	V pf praet sg indic f -			 , Россия _пошла_ .  	а	л	ш	о	п		V	ПОЙТИ	V pf praet sg indic f -	И
+3727		.	.	PUNCT										PUNCT			
+3728																	
+3729	# sent = 355																
+3730		Драка	ДРАКА	S f inan nom sg			.   _Драка_ началась . 	а	к	а	р	д		S	ДРАКА	S f inan nom sg	А
+3731		началась	НАЧАТЬСЯ	V pf praet sg indic f -			  Драка _началась_ .  	ь	с	а	л	а	ч	V	НАЧАТЬСЯ	V pf praet sg indic f -	Я
+3732		.	.	PUNCT										PUNCT			
+3733																	
+3734	# sent = 356																
+3735		Баба	БАБА	S f anim nom sg			.   _Баба_ продолжает херачить свёклу	а	б	а	б			S	БАБА	S f anim nom sg	А
+3736		продолжает	ПРОДОЛЖАТЬ	V ipf praes sg indic - 3p			  Баба _продолжает_ херачить свёклу .	т	е	а	ж	л	о	V	ПРОДОЛЖАТЬ	V ipf praes sg indic - 3p	Ь
+3737		херачить	ХЕРАЧИТЬ	V ipf - - inf - -			 Баба продолжает _херачить_ свёклу . 	ь	т	и	ч	а	р	V	ХЕРАЧИТЬ	V ipf - - inf - -	Ь
+3738		свёклу	СВЕКЛА	S f inan acc sg			Баба продолжает херачить _свёклу_ .  	у	л	к	ё	в	с	S	СВЕКЛА	S f inan acc sg	А
+3739		.	.	PUNCT										PUNCT			
+3740																	
+3741	# sent = 357																
+3742		Ей	ОНА	SPRO sg 3p f dat			.   _Ей_ по кайфу .	й	е					SPRO	ОНА	SPRO sg 3p f dat	А
+3743		по	ПО	PR			  Ей _по_ кайфу . 	о	п					PR	ПО	PR	О
+3744		кайфу	КАЙФ	S m inan dat sg			 Ей по _кайфу_ .  	у	ф	й	а	к		S	КАЙФ	S m inan - sg	Ф
+3745		.	.	PUNCT										PUNCT			
+3746																	
+3747	# sent = 358																
+3748	# speaker = Глеб																
+3749	# sent = 359																
+3750		Что	ЧТО	SPRO n inan nom sg			   _Что_ это ? 	о	т	ч				SPRO	ЧТО	S n - nom sg	О
+3751		это	ЭТО	SPRO n - nom sg			  Что _это_ ?  	о	т	э				SPRO	ЭТО	S n - nom sg	О
+3752		?	?	PUNCT										PUNCT			
+3753																	
+3754	# sent = 360																
+3755		Это	ЭТО	SPRO n - nom sg			?   _Это_ типа драка ?	о	т	э				SPRO	ЭТО	A - nom sg plen n -	О
+3756		типа	ТИПА	PART			  Это _типа_ драка ? 	а	п	и	т			PART	ТИПА	PART	А
+3757		драка	ДРАКА	S f inan nom sg			 Это типа _драка_ ?  	а	к	а	р	д		S	ДРАКА	S f inan nom sg	А
+3758		?	?	PUNCT										PUNCT			
+3759																	
+3760	# sent = 361																
+3761		Мужиком	МУЖИК	S m anim ins sg			?   _Мужиком_ ...  	м	о	к	и	ж	у	S	МУЖИК	S m anim ins sg	К
+3762		...	...	PUNCT										PUNCT			
+3763																	
+3764	# sent = 362																
+3765		Мужиком	МУЖИК	S m anim ins sg			...   _Мужиком_ ударили мужика ,	м	о	к	и	ж	у	S	МУЖИК	S m anim ins sg	К
+3766		ударили	УДАРИТЬ	V pf praet pl indic - -			  Мужиком _ударили_ мужика , что	и	л	и	р	а	д	V	УДАРИТЬ	V pf praet pl indic - -	Ь
+3767		мужика	МУЖИК	S m anim acc sg			 Мужиком ударили _мужика_ , что это	а	к	и	ж	у	м	S	МУЖИК	S m anim acc sg	К
+3768		,	,	PUNCT										PUNCT			
+3769		что	ЧТО	CONJ			ударили мужика , _что_ это значит ?	о	т	ч				CONJ	ЧТО	CONJ	О
+3770		это	ЭТО	SPRO n - nom sg			мужика , что _это_ значит ? 	о	т	э				SPRO	ЭТО	S n - nom sg	О
+3771		значит	ЗНАЧИТЬ	V ipf praes sg indic - 3p			, что это _значит_ ?  	т	и	ч	а	н	з	V	ЗНАЧИТЬ	V ipf praes sg indic - 3p	Ь
+3772		?	?	PUNCT										PUNCT			
+3773																	
+3774	# sent = 363																
+3775		И	И	CONJ			?   _И_ мужиком разбили свёклу	и						CONJ	И	CONJ	И
+3776		мужиком	МУЖИК	S m anim ins sg			  И _мужиком_ разбили свёклу .	м	о	к	и	ж	у	S	МУЖИК	S m anim ins sg	К
+3777		разбили	РАЗБИТЬ	V pf praet pl indic - -			 И мужиком _разбили_ свёклу . 	и	л	и	б	з	а	V	РАЗБИТЬ	V pf praet pl indic - -	Ь
+3778		свёклу	СВЕКЛА	S f inan acc sg			И мужиком разбили _свёклу_ .  	у	л	к	ё	в	с	S	СВЕКЛА	S f inan acc sg	А
+3779		.	.	PUNCT										PUNCT			
+3780																	
+3781	# sent = 364																
+3782		Чувак	ЧУВАК	S m anim nom sg			.   _Чувак_ разрубил красную капусту	к	а	в	у	ч		S	ЧУВАК	S m anim nom sg	К
+3783		разрубил	РАЗРУБИТЬ	V pf praet sg indic m -			  Чувак _разрубил_ красную капусту .	л	и	б	у	р	з	V	РАЗРУБИТЬ	V pf praet sg indic m -	Ь
+3784		красную	КРАСНЫЙ	A - acc sg plen f -			 Чувак разрубил _красную_ капусту . 	ю	у	н	с	а	р	A	КРАСНЫЙ	A - acc sg plen f -	Й
+3785		капусту	КАПУСТА	S f inan acc sg			Чувак разрубил красную _капусту_ .  	у	т	с	у	п	а	S	КАПУСТА	S f inan acc sg	А
+3786		.	.	PUNCT										PUNCT			
+3787																	
+3788	# sent = 365																
+3789		И	И	CONJ			.   _И_ он упал .	и						CONJ	И	CONJ	И
+3790		он	ОН	SPRO sg 3p m nom			  И _он_ упал . 	н	о					SPRO	ОН	SPRO sg 3p m nom	Н
+3791		упал	УПАСТЬ	V pf praet sg indic m -			 И он _упал_ .  	л	а	п	у			V	УПАСТЬ	V pf praet sg indic m -	Ь
+3792		.	.	PUNCT										PUNCT			
+3793																	
+3794	# sent = 366																
+3795	# speaker = Глеб																
+3796	# sent = 367																
+3797	<noindex>[нрзб]</noindex>																
+3798		.	.	PUNCT										PUNCT			
+3799																	
+3800	# sent = 368																
+3801		О	О	INTJ			.   _О_ , какой русский	о						PR	О	PR	О
+3802		,	,	PUNCT										PUNCT			
+3803		какой	КАКОЙ	APRO - nom sg plen m -			 О , _какой_ русский не пьет	й	о	к	а	к		APRO	КАКОЙ	A - nom sg plen m -	Й
+3804		русский	РУССКИЙ	S m anim nom sg			О , какой _русский_ не пьет виски	й	и	к	с	с	у	A	РУССКИЙ	A - nom sg plen m -	Й
+3805		не	НЕ	PART			, какой русский _не_ пьет виски ,	е	н					PART	НЕ	PART	Е
+3806		пьет	ПИТЬ	V ipf praes sg indic - 3p			какой русский не _пьет_ виски , ну	т	е	ь	п			V	ПИТЬ	V ipf praes sg indic - 3p	Ь
+3807		виски	ВИСКИ	S m/n inan acc pl 0			русский не пьет _виски_ , ну ,	и	к	с	и	в		S	ВИСОК	S m inan acc pl	И
+3808		,	,	PUNCT										PUNCT			
+3809		ну	НУ	PART			пьет виски , _ну_ , понятно .	у	н					PART	НУ	PART	У
+3810		,	,	PUNCT										PUNCT			
+3811		понятно	ПОНЯТНО	ADV -			, ну , _понятно_ .  	о	н	т	я	н	о	ADV	ПОНЯТНО	ADV -	О
+3812		.	.	PUNCT										PUNCT			
+3813																	
+3814	# sent = 369																
+3815		Господи	ГОСПОДИ	INTJ			.   _Господи_ , баба откусила	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+3816		,	,	PUNCT										PUNCT			
+3817		баба	БАБА	S f anim nom sg			 Господи , _баба_ откусила свёклу и	а	б	а	б			S	БАБА	S f anim nom sg	А
+3818		откусила	ОТКУСИТЬ	V pf praet sg indic f -			Господи , баба _откусила_ свёклу и начала	а	л	и	с	у	к	V	ОТКУСИТЬ	V pf praet sg indic f -	Ь
+3819		свёклу	СВЕКЛА	S f inan acc sg			, баба откусила _свёклу_ и начала сосаться	у	л	к	ё	в	с	S	СВЕКЛА	S f inan acc sg	А
+3820		и	И	CONJ			баба откусила свёклу _и_ начала сосаться .	и						CONJ	И	CONJ	И
+3821		начала	НАЧАТЬ	V pf praet sg indic f -			откусила свёклу и _начала_ сосаться . 	а	л	а	ч	а	н	S	НАЧАЛО	S n inan gen sg	Ь
+3822		сосаться	СОСАТЬСЯ	V ipf - - inf - -			свёклу и начала _сосаться_ .  	я	с	ь	т	а	с	V	СОСАТЬСЯ	V ipf - - inf - -	Я
+3823		.	.	PUNCT										PUNCT			
+3824																	
+3825	# sent = 370																
+3826	# speaker = Глеб																
+3827	# sent = 371																
+3828		Так	ТАК	ADV -			   _Так_ , тут пришел	к	а	т				ADV	ТАК	ADV -	К
+3829		,	,	PUNCT										PUNCT			
+3830		тут	ТУТ	ADV -			 Так , _тут_ пришел толстый полисмен	т	у	т				ADV	ТУТ	ADV -	Т
+3831		пришел	ПРИЙТИ	V pf praet sg indic m -			Так , тут _пришел_ толстый полисмен .	л	е	ш	и	р	п	V	ПРИЙТИ	V pf praet sg indic m -	И
+3832		толстый	ТОЛСТЫЙ	A - nom sg plen m inan			, тут пришел _толстый_ полисмен . 	й	ы	т	с	л	о	A	ТОЛСТЫЙ	A - acc sg plen m inan	Й
+3833		полисмен	ПОЛИСМЕН	S m anim nom sg			тут пришел толстый _полисмен_ .  	н	е	м	с	и	л	S	ПОЛИСМЕН	S m inan acc sg	Н
+3834		.	.	PUNCT										PUNCT			
+3835																	
+3836	# sent = 372																
+3837		Толстый	ТОЛСТЫЙ	A - nom sg plen m -			.   _Толстый_ городовой . 	й	ы	т	с	л	о	A	ТОЛСТЫЙ	A - nom sg plen m -	Й
+3838		городовой	ГОРОДОВОЙ	S m anim nom sg			  Толстый _городовой_ .  	й	о	в	о	д	о	S	ГОРОДОВОЙ	S m anim nom sg	Й
+3839		.	.	PUNCT										PUNCT			
+3840																	
+3841	# sent = 373																
+3842		Блин	БЛИН	S m inan acc sg			.   _Блин_ , кажется ...	н	и	л	б			S	БЛИН	S m inan acc sg	Н
+3843		,	,	PUNCT										PUNCT			
+3844		кажется	КАЖЕТСЯ	ADV -			 Блин , _кажется_ ...  	я	с	т	е	ж	а	ADV	КАЖЕТСЯ	ADV -	Я
+3845		...	...	PUNCT										PUNCT			
+3846																	
+3847	# sent = 374																
+3848	"<distinct form="""																
+3849	<dist>	ооо															
+3850	""">"																
+3851		О	О	INTJ			 ооо  _О_  , разбил	о						INTJ	О	S - - nonflex -	О
+3852	</distinct>																
+3853		,	,	PUNCT										PUNCT			
+3854		разбил	РАЗБИТЬ	V pf praet sg indic m -			О  , _разбил_ балалайку , хорошо	л	и	б	з	а	р	V	РАЗБИТЬ	V pf praet sg indic m -	Ь
+3855		балалайку	БАЛАЛАЙКА	S f inan acc sg			 , разбил _балалайку_ , хорошо .	у	к	й	а	л	а	S	БАЛАЛАЙКА	S f inan acc sg	А
+3856		,	,	PUNCT										PUNCT			
+3857		хорошо	ХОРОШО	ADV -			разбил балалайку , _хорошо_ .  	о	ш	о	р	о	х	ADV	ХОРОШО	ADV -	О
+3858		.	.	PUNCT										PUNCT			
+3859																	
+3860	# sent = 375																
+3861		А	А	CONJ			.   _А_ , да ,	а						CONJ	А	CONJ	А
+3862		,	,	PUNCT										PUNCT			
+3863		да	ДА	PART			 А , _да_ , балалайку опять	а	д					PART	ДА	PART	А
+3864		,	,	PUNCT										PUNCT			
+3865		балалайку	БАЛАЛАЙКА	S f inan nom sg			, да , _балалайку_ опять же .	у	к	й	а	л	а	S	БАЛАЛАЙКА	S f inan acc sg	А
+3866		опять	ОПЯТЬ	ADV -			да , балалайку _опять_ же . 	ь	т	я	п	о		ADV	ОПЯТЬ	ADV -	Ь
+3867		же	ЖЕ	PART			, балалайку опять _же_ .  	е	ж					PART	ЖЕ	PART	Е
+3868		.	.	PUNCT										PUNCT			
+3869																	
+3870	# sent = 376																
+3871	# speaker = Глеб																
+3872	# sent = 377																
+3873		Толстый	ТОЛСТЫЙ	A - nom sg plen m -			   _Толстый_ агрессивный русский полисмен	й	ы	т	с	л	о	A	ТОЛСТЫЙ	A - nom sg plen m -	Й
+3874		агрессивный	АГРЕССИВНЫЙ	A - nom sg plen m -			  Толстый _агрессивный_ русский полисмен разбил	й	ы	н	в	и	с	A	АГРЕССИВНЫЙ	A - nom sg plen m -	Й
+3875		русский	РУССКИЙ	A - nom sg plen m -			 Толстый агрессивный _русский_ полисмен разбил балалайку	й	и	к	с	с	у	A	РУССКИЙ	A - nom sg plen m -	Й
+3876		полисмен	ПОЛИСМЕН	S m anim nom sg			Толстый агрессивный русский _полисмен_ разбил балалайку в	н	е	м	с	и	л	S	ПОЛИСМЕН	S m anim nom sg	Н
+3877		разбил	РАЗБИТЬ	V pf praet sg indic m -			агрессивный русский полисмен _разбил_ балалайку в русской	л	и	б	з	а	р	V	РАЗБИТЬ	V pf praet sg indic m -	Ь
+3878		балалайку	БАЛАЛАЙКА	S f inan acc sg			русский полисмен разбил _балалайку_ в русской деревне	у	к	й	а	л	а	S	БАЛАЛАЙКА	S f inan acc sg	А
+3879		в	В	PR			полисмен разбил балалайку _в_ русской деревне ,	в						PR	В	PR	В
+3880		русской	РУССКИЙ	A - loc sg plen f -			разбил балалайку в _русской_ деревне , где	й	о	к	с	с	у	A	РУССКИЙ	A - loc sg plen f -	Й
+3881		деревне	ДЕРЕВНЯ	S f inan loc sg			балалайку в русской _деревне_ , где бородатые	е	н	в	е	р	е	S	ДЕРЕВНЯ	S f inan loc sg	Я
+3882		,	,	PUNCT										PUNCT			
+3883		где	ГДЕ	ADV -			русской деревне , _где_ бородатые мужики ,	е	д	г				ADV	ГДЕ	ADV -	Е
+3884		бородатые	БОРОДАТЫЙ	A - nom pl plen - -			деревне , где _бородатые_ мужики , шлюхи	е	ы	т	а	д	о	A	БОРОДАТЫЙ	A - nom pl plen - -	Й
+3885		мужики	МУЖИК	S m anim nom pl			, где бородатые _мужики_ , шлюхи ,	и	к	и	ж	у	м	S	МУЖИК	S m anim nom pl	К
+3886		,	,	PUNCT										PUNCT			
+3887		шлюхи	ШЛЮХА	S f anim nom pl			бородатые мужики , _шлюхи_ , алкоголики .	и	х	ю	л	ш		S	ШЛЮХА	S f anim gen sg	А
+3888		,	,	PUNCT										PUNCT			
+3889		алкоголики	АЛКОГОЛИК	S m anim nom pl			, шлюхи , _алкоголики_ .  	и	к	и	л	о	г	S	АЛКОГОЛИК	S m anim nom pl	К
+3890		.	.	PUNCT										PUNCT			
+3891																	
+3892	# sent = 378																
+3893	# speaker = Глеб																
+3894	# sent = 379																
+3895		О	О	INTJ			   _О_ , из руки	о						INTJ	О	INTJ	О
+3896		,	,	PUNCT										PUNCT			
+3897		из	ИЗ	PR			 О , _из_ руки . 	з	и					PR	ИЗ	PR	З
+3898		руки	РУКА	S f inan gen sg			О , из _руки_ .  	и	к	у	р			S	РУКА	S f inan acc pl	А
+3899		.	.	PUNCT										PUNCT			
+3900																	
+3901	# sent = 380																
+3902		Сделали	СДЕЛАТЬ	V pf praet pl indic - -			.   _Сделали_ .  	и	л	а	л	е	д	V	СДЕЛАТЬ	V pf praet pl indic - -	Ь
+3903		.	.	PUNCT										PUNCT			
+3904																	
+3905	# sent = 381																
+3906		Борщ	БОРЩ	S m inan nom sg			.   _Борщ_ .  	щ	р	о	б			S	БОРЩ	S m inan nom sg	Щ
+3907		.	.	PUNCT										PUNCT			
+3908																	
+3909	# sent = 382																
+3910		Круто	КРУТО	ADV -			.   _Круто_ заносит . 	о	т	у	р	к		ADV	КРУТО	ADV -	О
+3911		заносит	ЗАНОСИТЬ	V ipf praes sg indic - 3p			  Круто _заносит_ .  	т	и	с	о	н	а	V	ЗАНОСИТЬ	V ipf praes sg indic - 3p	Ь
+3912		.	.	PUNCT										PUNCT			
+3913																	
+3914	# sent = 383																
+3915		А	А	CONJ			.   _А_ у этих людей	а						CONJ	А	CONJ	А
+3916		у	У	PR			  А _у_ этих людей выражение	у						PR	У	PR	У
+3917		этих	ЭТОТ	APRO - gen pl plen - -			 А у _этих_ людей выражение лиц	х	и	т	э			APRO	ЭТОТ	A - gen pl plen - -	Т
+3918		людей	ЧЕЛОВЕК	S m anim gen pl			А у этих _людей_ выражение лиц изменится	й	е	д	ю	л		S	ЧЕЛОВЕК	S m anim gen pl	К
+3919		выражение	ВЫРАЖЕНИЕ	S n inan nom sg			у этих людей _выражение_ лиц изменится ,	е	и	н	е	ж	а	S	ВЫРАЖЕНИЕ	S n inan nom sg	Е
+3920		лиц	ЛИЦО	S n anim gen pl			этих людей выражение _лиц_ изменится , которые	ц	и	л				S	ЛИЦО	S n anim gen pl	О
+3921		изменится	ИЗМЕНИТЬСЯ	V pf fut sg indic - 3p			людей выражение лиц _изменится_ , которые виски	я	с	т	и	н	е	V	ИЗМЕНИТЬСЯ	V pf fut sg indic - 3p	Я
+3922		,	,	PUNCT										PUNCT			
+3923		которые	КОТОРЫЙ	APRO - nom pl plen - -			лиц изменится , _которые_ виски варят или	е	ы	р	о	т	о	APRO	КОТОРЫЙ	A - nom pl plen - -	Й
+3924		виски	ВИСКИ	S m/n inan acc sg 0			изменится , которые _виски_ варят или всё	и	к	с	и	в		S	ВИСОК	S m inan nom pl	И
+3925		варят	ВАРИТЬ	V ipf praes pl indic - 3p			, которые виски _варят_ или всё ,	т	я	р	а	в		V	ВАРИТЬ	V ipf praes pl indic - 3p	Ь
+3926		или	ИЛИ	CONJ			которые виски варят _или_ всё , у	и	л	и				CONJ	ИЛИ	CONJ	И
+3927		всё	ВСЕ	SPRO sg -- nom			виски варят или _всё_ , у них	ё	с	в				S	ВСЕ	S n - nom sg	Е
+3928		,	,	PUNCT										PUNCT			
+3929		у	У	PR			или всё , _у_ них жизнь закончилась	у						PR	У	PR	У
+3930		них	ОНИ	SPRO pl - - loc			всё , у _них_ жизнь закончилась ?	х	и	н				SPRO	ОНИ	SPRO pl - - loc	И
+3931		жизнь	ЖИЗНЬ	S f inan acc sg			, у них _жизнь_ закончилась ? 	ь	н	з	и	ж		S	ЖИЗНЬ	S f inan acc sg	Ь
+3932		закончилась	ЗАКОНЧИТЬСЯ	V pf praet sg indic f -			у них жизнь _закончилась_ ?  	ь	с	а	л	и	ч	V	ЗАКОНЧИТЬСЯ	V pf praet sg indic f -	Я
+3933		?	?	PUNCT										PUNCT			
+3934																	
+3935	# sent = 384																
+3936	# speaker = Глеб																
+3937	# sent = 385																
+3938		Довольно	ДОВОЛЬНО	ADV -			   _Довольно_ сексуальная баба в	о	н	ь	л	о	в	ADV	ДОВОЛЬНО	ADV -	О
+3939		сексуальная	СЕКСУАЛЬНЫЙ	A - nom sg plen f -			  Довольно _сексуальная_ баба в черном	я	а	н	ь	л	а	A	СЕКСУАЛЬНЫЙ	A - nom sg plen f -	Й
+3940		баба	БАБА	S f anim nom sg			 Довольно сексуальная _баба_ в черном .	а	б	а	б			S	БАБА	S f anim nom sg	А
+3941		в	В	PR			Довольно сексуальная баба _в_ черном . 	в						PR	В	PR	В
+3942		черном	ЧЕРНЫЙ	A - loc sg plen m/n -			сексуальная баба в _черном_ .  	м	о	н	р	е	ч	A	ЧЕРНЫЙ	A - loc sg plen m -	Й
+3943		.	.	PUNCT										PUNCT			
+3944																	
+3945	# sent = 386																
+3946		Что	ЧТО	SPRO n inan acc sg			.   _Что_  проис 	о	т	ч				SPRO	ЧТО	S n - acc sg	О
+3947	"<distinct form="""																
+3948	<dist>	проис															
+3949	""">"																
+3950		происходит	ПРОИСХОДИТЬ	V ipf praes sg indic - 3p			 проис  _происходит_  ? 	т	и	д	о	х	с	V	ПРОИСХОДИТЬ	V ipf praes sg indic - 3p	Ь
+3951	</distinct>																
+3952		?	?	PUNCT										PUNCT			
+3953																	
+3954	# sent = 387																
+3955		Баба	БАБА	S f anim nom sg			?   _Баба_ лапает себя за	а	б	а	б			S	БАБА	S f anim nom sg	А
+3956		лапает	ЛАПАТЬ	V ipf praes sg indic - 3p			  Баба _лапает_ себя за сиськи	т	е	а	п	а	л	V	ЛАПАТЬ	V ipf praes sg indic - 3p	Ь
+3957		себя	СЕБЯ	SPRO - - - acc			 Баба лапает _себя_ за сиськи .	я	б	е	с			SPRO	СЕБЯ	SPRO - - - acc	Я
+3958		за	ЗА	PR			Баба лапает себя _за_ сиськи . 	а	з					PR	ЗА	PR	А
+3959		сиськи	СИСЬКА	S f inan acc sg			лапает себя за _сиськи_ .  	и	к	ь	с	и	с	S	СИСЬКА	S f inan acc sg	А
+3960		.	.	PUNCT										PUNCT			
+3961																	
+3962	# sent = 388																
+3963		Они	ОНИ	SPRO pl - - nom			.   _Они_ ...  	и	н	о				SPRO	ОНИ	SPRO pl - - nom	И
+3964		...	...	PUNCT										PUNCT			
+3965																	
+3966	# sent = 389																
+3967		Там	ТАМ	ADV -			...   _Там_ какой-то ... 	м	а	т				ADV	ТАМ	ADV -	М
+3968		какой-то	КАКОЙ-ТО	APRO - nom sg plen m -			  Там _какой-то_ ...  	о	т	-	й	о	к	APRO	КАКОЙ-ТО	A - nom sg plen m -	О
+3969		...	...	PUNCT										PUNCT			
+3970																	
+3971	# sent = 390																
+3972		Баба	БАБА	S f anim nom sg			...   _Баба_ начала орать ,	а	б	а	б			S	БАБА	S f anim nom sg	А
+3973		начала	НАЧАТЬ	V pf praet sg indic f -			  Баба _начала_ орать , что-то	а	л	а	ч	а	н	S	НАЧАЛО	S n inan acc pl	Ь
+3974		орать	ОРАТЬ	V ipf - - inf - -			 Баба начала _орать_ , что-то 	ь	т	а	р	о		V	ОРАТЬ	V ipf - - inf - -	Ь
+3975		,	,	PUNCT										PUNCT			
+3976		что-то	ЧТО-ТО	SPRO n inan nom sg			начала орать , _что-то_  произо 	о	т	-	о	т	ч	SPRO	ЧТО-ТО	S n - acc sg	О
+3977	"<distinct form="""																
+3978	<dist>	произо															
+3979	""">"																
+3980		произошло	ПРОИЗОЙТИ	V pf praet sg indic n -			 произо  _произошло_  . 	о	л	ш	о	з	и	V	ПРОИЗОЙТИ	V pf praet sg indic n -	И
+3981	</distinct>																
+3982		.	.	PUNCT										PUNCT			
+3983																	
+3984	# sent = 391																
+3985	# speaker = Глеб																
+3986	# sent = 392																
+3987		А	А	INTJ			   _А_ , я понял	а						CONJ	А	CONJ	А
+3988		,	,	PUNCT										PUNCT			
+3989		я	Я	SPRO sg 1p - nom			 А , _я_ понял . 	я						SPRO	Я	SPRO sg 1p - nom	Я
+3990		понял	ПОНЯТЬ	V pf praet sg indic m -			А , я _понял_ .  	л	я	н	о	п		V	ПОНЯТЬ	V pf praet sg indic m -	Ь
+3991		.	.	PUNCT										PUNCT			
+3992																	
+3993	# sent = 393																
+3994		Начался	НАЧАТЬСЯ	V pf praet sg indic m -			.   _Начался_ каннибализм . 	я	с	л	а	ч	а	V	НАЧАТЬСЯ	V pf praet sg indic m -	Я
+3995		каннибализм	КАННИБАЛИЗМ	S m inan nom sg			  Начался _каннибализм_ .  	м	з	и	л	а	б	S	КАННИБАЛИЗМ	S m anim nom sg	М
+3996		.	.	PUNCT										PUNCT			
+3997																	
+3998	# sent = 394																
+3999		О	О	INTJ			.   _О_ , шлюху убили	о						PR	О	PR	О
+4000		,	,	PUNCT										PUNCT			
+4001		шлюху	ШЛЮХА	S f anim acc sg			 О , _шлюху_ убили . 	у	х	ю	л	ш		S	ШЛЮХА	S f anim acc sg	А
+4002		убили	УБИТЬ	V pf praet pl indic - -			О , шлюху _убили_ .  	и	л	и	б	у		V	УБИТЬ	V pf praet pl indic - -	Ь
+4003		.	.	PUNCT										PUNCT			
+4004																	
+4005	# sent = 395																
+4006		Мёртвая	МЕРТВЫЙ	A - nom sg plen f -			.   _Мёртвая_ шлюха , клёвый	я	а	в	т	р	ё	A	МЕРТВЫЙ	A - nom sg plen f -	Й
+4007		шлюха	ШЛЮХА	S f anim nom sg			  Мёртвая _шлюха_ , клёвый ништяк	а	х	ю	л	ш		S	ШЛЮХА	S f anim nom sg	А
+4008		,	,	PUNCT										PUNCT			
+4009		клёвый	КЛЕВЫЙ	A - nom sg plen m inan			Мёртвая шлюха , _клёвый_ ништяк . 	й	ы	в	ё	л	к	A	КЛЕВЫЙ	A - acc sg plen m inan	Й
+4010		ништяк	НИШТЯК	S m inan nom sg			шлюха , клёвый _ништяк_ .  	к	я	т	ш	и	н	S	НИШТЯК	S m inan nom sg	К
+4011		.	.	PUNCT										PUNCT			
+4012																	
+4013	# sent = 396																
+4014		Сердце	СЕРДЦЕ	S n inan nom sg			.   _Сердце_ , сердце .	е	ц	д	р	е	с	S	СЕРДЦЕ	S n inan nom sg	Е
+4015		,	,	PUNCT										PUNCT			
+4016		сердце	СЕРДЦЕ	S n inan nom sg			 Сердце , _сердце_ .  	е	ц	д	р	е	с	S	СЕРДЦЕ	S n inan nom sg	Е
+4017		.	.	PUNCT										PUNCT			
+4018																	
+4019	# sent = 397																
+4020	"<distinct form="""																
+4021	<dist>	еээ															
+4022	""">"																
+4023		Е	Е	INTJ			 еээ  _Е_  , аппетитно	е						NONLEX	Е	S - - nonflex -	Е
+4024	</distinct>																
+4025		,	,	PUNCT										PUNCT			
+4026		аппетитно	АППЕТИТНО	ADV -			Е  , _аппетитно_ .  	о	н	т	и	т	е	ADV	АППЕТИТНО	ADV -	О
+4027		.	.	PUNCT										PUNCT			
+4028																	
+4029	# sent = 398																
+4030	# speaker = Глеб																
+4031	# sent = 399																
+4032		В	В	PR			   _В_ супе глаз ,	в						PR	В	PR	В
+4033		супе	СУП	S m inan loc sg			  В _супе_ глаз , ничего	е	п	у	с			S	СУП	S m inan loc sg	П
+4034		глаз	ГЛАЗ	S m inan nom sg			 В супе _глаз_ , ничего себе	з	а	л	г			S	ГЛАЗ	S m inan gen pl	З
+4035		,	,	PUNCT										PUNCT			
+4036		ничего	НИЧЕГО	ADV -			супе глаз , _ничего_ себе . 	о	г	е	ч	и	н	ADV	НИЧЕГО	ADV -	О
+4037		себе	СЕБЯ	SPRO - - - dat			глаз , ничего _себе_ .  	е	б	е	с			SPRO	СЕБЕ	SPRO - - - dat	Я
+4038		.	.	PUNCT										PUNCT			
+4039																	
+4040	# sent = 400																
+4041		А	А	INTJ			.   _А_ .  ничо	а						INTJ	А	INTJ	А
+4042		.	.	PUNCT										PUNCT			
+4043	"<distinct form="""																
+4044	<dist>	ничо															
+4045	""">"																
+4046		Ничего	НИЧЕГО	ADV -			 ничо  _Ничего_  себе ,	о	г	е	ч	и	н	ADV	НИЧЕГО	ADV -	О
+4047	</distinct>																
+4048		себе	СЕБЯ	SPRO - - - dat			 Ничего  _себе_ , тут Тарантино	е	б	е	с			SPRO	СЕБЯ	SPRO - - - dat	Я
+4049		,	,	PUNCT										PUNCT			
+4050		тут	ТУТ	ADV -			 себе , _тут_ Тарантино начинается .	т	у	т				ADV	ТУТ	ADV -	Т
+4051		Тарантино	ТАРАНТИНО	S m anim nom sg famn			себе , тут _Тарантино_ начинается . 	о	н	и	т	н	а	S	ТАРАНТИНО	S m anim nonflex -	О
+4052		начинается	НАЧИНАТЬСЯ	V ipf praes sg indic - 3p			, тут Тарантино _начинается_ .  	я	с	т	е	а	н	V	НАЧИНАТЬСЯ	V ipf praes sg indic - 3p	Я
+4053		.	.	PUNCT										PUNCT			
+4054																	
+4055	# sent = 401																
+4056		Он	ОН	SPRO sg 3p m nom			.   _Он_  щас 	н	о					SPRO	ОН	SPRO sg 3p m nom	Н
+4057	"<distinct form="""																
+4058	<dist>	щас															
+4059	""">"																
+4060		сейчас	СЕЙЧАС	ADV -			 щас  _сейчас_  стрелять 	с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -	С
+4061	</distinct>																
+4062		стрелять	СТРЕЛЯТЬ	V ipf - - inf - -			 сейчас  _стрелять_  бу 	ь	т	я	л	е	р	V	СТРЕЛЯТЬ	V ipf - - inf - -	Ь
+4063	"<distinct form="""																
+4064	<dist>	бу															
+4065	""">"																
+4066		будет	БЫТЬ	V ipf fut sg indic - 3p			 бу  _будет_  . 	т	е	д	у	б		V	БЫТЬ	V ipf praes sg indic - 3p	Ь
+4067	</distinct>																
+4068		.	.	PUNCT										PUNCT			
+4069																	
+4070	# sent = 402																
+4071		Бу	БУ	INTJ	слитно		.   _Бу_ - бух ,	у	б					NONLEX	БУ	NONLEX	У
+4072		-	-	PUNCT										PUNCT			
+4073		бух	БУХ	INTJ	слитно		 Бу - _бух_ , минус .	х	у	б				S	БУХ	S m inan acc sg	Х
+4074		,	,	PUNCT										PUNCT			
+4075		минус	МИНУС	S m inan nom sg			- бух , _минус_ .  	с	у	н	и	м		S	МИНУС	S m inan nom sg	С
+4076		.	.	PUNCT										PUNCT			
+4077																	
+4078	# sent = 403																
+4079		Или	ИЛИ	CONJ			.   _Или_ не минус ?	и	л	и				CONJ	ИЛИ	CONJ	И
+4080		не	НЕ	PART			  Или _не_ минус ? 	е	н					PART	НЕ	PART	Е
+4081		минус	МИНУС	S m inan nom sg			 Или не _минус_ ?  	с	у	н	и	м		S	МИНУС	S m inan nom sg	С
+4082		?	?	PUNCT										PUNCT			
+4083																	
+4084	# sent = 404																
+4085		Или	ИЛИ	CONJ			?   _Или_ он бессмертный ?	и	л	и				CONJ	ИЛИ	CONJ	И
+4086		он	ОН	SPRO sg 3p m nom			  Или _он_ бессмертный ? 	н	о					SPRO	ОН	SPRO sg 3p m nom	Н
+4087		бессмертный	БЕССМЕРТНЫЙ	A - nom sg plen m -			 Или он _бессмертный_ ?  	й	ы	н	т	р	е	A	БЕССМЕРТНЫЙ	A - nom sg plen m -	Й
+4088		?	?	PUNCT										PUNCT			
+4089																	
+4090	# sent = 405																
+4091	# speaker = Глеб																
+4092	# sent = 406																
+4093		Нет	НЕТ	PART			   _Нет_ , он смертный	т	е	н				PART	НЕТ	PART	Т
+4094		,	,	PUNCT										PUNCT			
+4095		он	ОН	SPRO sg 3p m nom			 Нет , _он_ смертный . 	н	о					SPRO	ОН	SPRO sg 3p m nom	Н
+4096		смертный	СМЕРТНЫЙ	A - nom sg plen m -			Нет , он _смертный_ .  	й	ы	н	т	р	е	S	СМЕРТНЫЙ	S m anim nom sg	Й
+4097		.	.	PUNCT										PUNCT			
+4098																	
+4099	# sent = 407																
+4100		Колокольный	КОЛОКОЛЬНЫЙ	A - nom sg plen m -			.   _Колокольный_ звон , е	й	ы	н	ь	л	о	A	КОЛОКОЛЬНЫЙ	A - nom sg plen m -	Й
+4101		звон	ЗВОН	S m inan nom sg			  Колокольный _звон_ , е ,	н	о	в	з			S	ЗВОН	S m inan nom sg	Н
+4102		,	,	PUNCT										PUNCT			
+4103		е	Е	INTJ			Колокольный звон , _е_ ,  во	е						INTJ	Е	INTJ	Е
+4104		,	,	PUNCT										PUNCT			
+4105	"<distinct form="""																
+4106	<dist>	во															
+4107	""">"																
+4108		вот	ВОТ	PART			 во  _вот_  , Россия	т	о	в				PART	ВОТ	PART	Т
+4109	</distinct>																
+4110		,	,	PUNCT										PUNCT			
+4111		Россия	РОССИЯ	S f inan nom sg			вот  , _Россия_ , Россия ,	я	и	с	с	о	р	S	РОССИЯ	S f inan nom sg	Я
+4112		,	,	PUNCT										PUNCT			
+4113		Россия	РОССИЯ	S f inan nom sg			, Россия , _Россия_ , колокольный звон	я	и	с	с	о	р	S	РОССИЯ	S f inan nom sg	Я
+4114		,	,	PUNCT										PUNCT			
+4115		колокольный	КОЛОКОЛЬНЫЙ	A - nom sg plen m inan			, Россия , _колокольный_ звон . 	й	ы	н	ь	л	о	A	КОЛОКОЛЬНЫЙ	A - acc sg plen m inan	Й
+4116		звон	ЗВОН	S m inan nom sg			Россия , колокольный _звон_ .  	н	о	в	з			S	ЗВОН	S m inan acc sg	Н
+4117		.	.	PUNCT										PUNCT			
+4118																	
+4119	# sent = 408																
+4120	"<distinct form="""																
+4121	<dist>	щас															
+4122	""">"																
+4123		Сейчас	СЕЙЧАС	ADV -			 щас  _Сейчас_  священник ...	с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -	С
+4124	</distinct>																
+4125		священник	СВЯЩЕННИК	S m anim nom sg			 Сейчас  _священник_ ...  	к	и	н	н	е	щ	S	СВЯЩЕННИК	S m anim nom sg	К
+4126		...	...	PUNCT										PUNCT			
+4127																	
+4128	# sent = 409																
+4129		Нет	НЕТ	PART			...   _Нет_ , он бессмертный	т	е	н				PART	НЕТ	PART	Т
+4130		,	,	PUNCT										PUNCT			
+4131		он	ОН	SPRO sg 3p m nom			 Нет , _он_ бессмертный всё-таки .	н	о					SPRO	ОН	SPRO sg 3p m nom	Н
+4132		бессмертный	БЕССМЕРТНЫЙ	A - nom sg plen m -			Нет , он _бессмертный_ всё-таки . 	й	ы	н	т	р	е	A	БЕССМЕРТНЫЙ	A - nom sg plen m -	Й
+4133		всё-таки	ВСЕ-ТАКИ	PART			, он бессмертный _всё-таки_ .  	и	к	а	т	-	ё	PART	ВСЕ-ТАКИ	PART	И
+4134		.	.	PUNCT										PUNCT			
+4135																	
+4136	# sent = 410																
+4137	# speaker = Глеб																
+4138	# sent = 411																
+4139		Блин	БЛИН	INTJ			   _Блин_ , у него	н	и	л	б			S	БЛИН	S m inan acc sg	Н
+4140		,	,	PUNCT										PUNCT			
+4141		у	У	PR			 Блин , _у_ него амулет из	у						PR	У	PR	У
+4142		него	ОН	SPRO sg 3p m acc			"Блин , у _него_ амулет из """	о	г	е	н			SPRO	ОН	SPRO sg 3p m acc	Н
+4143		амулет	АМУЛЕТ	S m inan nom sg			", у него _амулет_ из "" Ведьмака"	т	е	л	у	м	а	S	АМУЛЕТ	S m inan acc sg	Т
+4144		из	ИЗ	PR			"у него амулет _из_ "" Ведьмака """	з	и					PR	ИЗ	PR	З
+4145		""""	""""	PUNCT										PUNCT			
+4146		Ведьмака	ВЕДЬМАК	S m anim gen sg			"амулет из "" _Ведьмака_ "" , почему"	а	к	а	м	ь	д	S	ВЕДЬМАК	S m anim acc sg	К
+4147		""""	""""	PUNCT										PUNCT			
+4148		,	,	PUNCT										PUNCT			
+4149		почему	ПОЧЕМУ	ADV -			"Ведьмака "" , _почему_ я этого не"	у	м	е	ч	о	п	ADV	ПОЧЕМУ	ADV -	У
+4150		я	Я	SPRO sg 1p - nom			""" , почему _я_ этого не заметил"	я						SPRO	Я	SPRO sg 1p - nom	Я
+4151		этого	ЭТО	SPRO n - gen sg			, почему я _этого_ не заметил ?	о	г	о	т	э		SPRO	ЭТО	S n - gen sg	О
+4152		не	НЕ	PART			почему я этого _не_ заметил ? 	е	н					PART	НЕ	PART	Е
+4153		заметил	ЗАМЕТИТЬ	V pf praet sg indic m -			я этого не _заметил_ ?  	л	и	т	е	м	а	V	ЗАМЕТИТЬ	V pf praet sg indic m -	Ь
+4154		?	?	PUNCT										PUNCT			
+4155																	
+4156	# sent = 412																
+4157		Что	ЧТО	SPRO n inan nom sg			?   _Что_ это ? 	о	т	ч				SPRO	ЧТО	S n - nom sg	О
+4158		это	ЭТО	SPRO n - nom sg			  Что _это_ ?  	о	т	э				SPRO	ЭТО	S n inan acc sg	О
+4159		?	?	PUNCT										PUNCT			
+4160																	
+4161	# sent = 413																
+4162	# speaker = Глеб																
+4163	# sent = 414																
+4164		Господи	ГОСПОДИ	INTJ			   _Господи_ , ещё какая-то	и	д	о	п	с	о	INTJ	ГОСПОДИ	INTJ	И
+4165		,	,	PUNCT										PUNCT			
+4166		ещё	ЕЩЕ	ADV -			 Господи , _ещё_ какая-то зарисовка .	ё	щ	е				ADV	ЕЩЕ	ADV -	Е
+4167		какая-то	КАКОЙ-ТО	APRO - nom sg plen f -			Господи , ещё _какая-то_ зарисовка . 	о	т	-	я	а	к	APRO	КАКОЙ-ТО	A - nom sg plen f -	О
+4168		зарисовка	ЗАРИСОВКА	S f inan nom sg			, ещё какая-то _зарисовка_ .  	а	к	в	о	с	и	S	ЗАРИСОВКА	S f inan nom sg	А
+4169		.	.	PUNCT										PUNCT			
+4170																	
+4171	# sent = 415																
+4172		Хохлома	ХОХЛОМА	S f inan nom sg			.   _Хохлома_ .  	а	м	о	л	х	о	S	ХОХЛОМА	S m inan nom sg	А
+4173		.	.	PUNCT										PUNCT			
+4174																	
+4175	# sent = 416																
+4176		Тут	ТУТ	ADV -			.   _Тут_ пистолет похож на	т	у	т				ADV	ТУТ	ADV -	Т
+4177		пистолет	ПИСТОЛЕТ	S m inan nom sg			  Тут _пистолет_ похож на колбасу	т	е	л	о	т	с	S	ПИСТОЛЕТ	S m inan nom sg	Т
+4178		похож	ПОХОЖИЙ	A - - sg brev m -			 Тут пистолет _похож_ на колбасу .	ж	о	х	о	п		A	ПОХОЖИЙ	A - - sg brev m -	Й
+4179		на	НА	PR			Тут пистолет похож _на_ колбасу . 	а	н					PR	НА	PR	А
+4180		колбасу	КОЛБАСА	S f inan acc sg			пистолет похож на _колбасу_ .  	у	с	а	б	л	о	S	КОЛБАСА	S f inan acc sg	А
+4181		.	.	PUNCT										PUNCT			
+4182																	
+4183	# sent = 417																
+4184		Би	БИ	S - anim nom pl	слитно		.   _Би_ - 2 .	и	б					COM	БИ	COM	И
+4185		-	-	PUNCT										PUNCT			
+4186		2	2	S - anim nom pl	слитно		 Би - _2_ .  	2						NUM	2	NUM - - -	2
+4187		.	.	PUNCT										PUNCT			
+4188																	
+4189	# sent = 418																
+4190		Борщи	БОРЩ	S m inan pl sg			.   _Борщи_ .  	и	щ	р	о	б		S	БОРЩ	S m anim nom sg	Щ
+4191		.	.	PUNCT										PUNCT			
+4192																	
+4193	# sent = 419																
+4194		Деревня	ДЕРЕВНЯ	S f inan nom sg			.   _Деревня_ .  	я	н	в	е	р	е	S	ДЕРЕВНЯ	S f inan nom sg	Я
+4195		.	.	PUNCT										PUNCT			
+4196																	
+4197	# sent = 420																
+4198		Украинская	УКРАИНСКИЙ	A - nom sg plen f -			.   _Украинская_ ночь . 	я	а	к	с	н	и	A	УКРАИНСКИЙ	A - nom sg plen f -	Й
+4199		ночь	НОЧЬ	S f inan nom sg			  Украинская _ночь_ .  	ь	ч	о	н			S	НОЧЬ	S f inan nom sg	Ь
+4200		.	.	PUNCT										PUNCT			
+4201																	
+4202	# sent = 421																
+4203		Блин	БЛИН	INTJ			.   _Блин_ , видос закончился	н	и	л	б			S	БЛИН	S m inan acc sg	Н
+4204		,	,	PUNCT										PUNCT			
+4205		видос	ВИДОС	S m inan nom sg	new		 Блин , _видос_ закончился . 	с	о	д	и	в		S	ВИДОС	S m inan gen sg	С
+4206		закончился	ЗАКОНЧИТЬСЯ	V pf praet sg indic m -			Блин , видос _закончился_ .  	я	с	л	и	ч	н	V	ЗАКОНЧИТЬСЯ	V pf praet sg indic m -	Я
+4207		.	.	PUNCT										PUNCT			
+4208																	
